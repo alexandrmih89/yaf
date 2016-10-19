@@ -1,0 +1,99 @@
+<div>
+<?php AlertWidget::run(); ?>
+<form name="form" method="POST" action="/admin/list/create">
+	<table><tr><td>
+	Название списка
+	<br>
+	<input name="list" type="text" value="" size="40">
+	</td><td>
+	Тип списка
+	<br>
+	<select name="level">
+		<option value="0"></option>
+		<?php foreach($list_arr as $index=>$list_name) { ?>
+		<option value="<?php echo $index; ?>">
+			<?php echo $list_name?>
+		</option>
+		<?php } ?>
+	</select>
+	</td></tr></table>
+	<span id="color_check"></span>
+	<input class="submit" type="submit" name="Submit" value="Добавить">
+	<input type="hidden" name="list_insert" value="form">
+</form>
+</div>
+<?php if(empty($lists)){ ?> 
+	<p><b>Перечень списков пуст</b></p>
+<?php } ?>	
+ 
+<table class="table table-bordered table-hover">
+	<tr>
+		<th><b>Название списка</b></th>
+		<th><b>Тип списка</b></th>
+		<th>Спис.</th>
+		<th>Ред.</th>
+		<th>Уд.</th>
+	</tr>
+	
+	<?php foreach($lists as $list){ ?>
+	<tr>
+		<td><?php echo $list->list; ?></td>
+		<td><?php echo $list_arr[$list->level]; ?></td>
+		<td>
+			<a href="/admin/list/element/id/<?php echo $list->id; ?>">
+				<span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+			</a>
+		</td>
+		<td>
+			<a href="/admin/list/edit/id/<?php echo $list->id; ?>">
+				<span class="glyphicon glyphicon-pencil" aria-hidden="true"></span>
+			</a>
+		</td>
+		<td>
+			<a href="/admin/list/delete/id/<?php echo $list->id; ?>">
+				<span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+			</a>
+		</td>
+	</tr>	
+	<?php } ?>
+</table>
+
+<?php /*
+if ($nr >0)
+{
+$i=0;
+echo '<TABLE width="100%" style="BORDER-COLLAPSE: collapse" cellpadding="3" cellspacing="3" border="1" bordercolor="#E2E2E2">';
+	echo '<tr align=center>';
+	echo '<td>';
+	echo '<b>Название списка</b>';  
+	echo '<td>';
+	echo '<b>Тип списка</b>';  
+	echo '<td>';
+	echo '<td>';
+	echo '<td>';
+
+	while ($rr = mysql_fetch_assoc($r)) 
+	{ 
+	$i++;
+	echo '<tr>';
+	echo '<td>';
+	echo $rr['spisok'];  
+	
+	echo '<td align=center >';
+	if($rr['color'])
+	echo '<font color=red>'.$spisok_arr[$rr['level']].'</font>'; 
+	else 
+	echo $spisok_arr[$rr['level']];  
+	
+	echo '<td width="5%">';
+	echo '<a href = "element.php?id_spisok='.$rr['id_spisok'].'"><img hspace="2" src="../icon/search.png" alt="" border="0" ></a>';
+	
+	echo '<td width="5%">';
+	echo '<a href = "'.$Action.'?edit_spisok='.$rr['id_spisok'].'"><img hspace="2" src="../icon/edit.png" alt="Изменить название" border="0" ></a>';
+	echo '<td  width="5%">';
+ 	echo '<a href = "'.$Action.'?del_spisok='.$rr['id_spisok'].'"><img hspace="2"  src="../icon/del.png" alt="Удалить" border="0" ></a>'; 
+	
+	}  
+echo '</TABLE>';
+}
+ */?>

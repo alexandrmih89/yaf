@@ -1,0 +1,15 @@
+<h1>Редактировать подкатегорию</h1>
+<!--<p><a href="/admin/category/">назад</a></p>-->
+<form action="<?php echo $_SERVER['REQUEST_URI']; ?>" method="post">
+	<p>Название: <input type="text" name="name" value="<?php echo $subcategory->name;?>" /></p>
+	<p>Путь    : <input type="text" name="path" value="<?php echo $subcategory->path;?>" /></p>
+	<p>Родитель    : <input type="text" name="parent" value="<?php echo $subcategory->parent;?>" /></p>
+	<p>Видимость: 
+	<select name="visible">
+	<option <?php echo ($subcategory->visible == '1')?'selected':''; ?> value="1">видимая</option>
+	<option <?php echo ($subcategory->visible == '0')?'selected':''; ?> value="0">не видимая</option>
+	</select>
+	
+	</p>
+	<p><input type="submit" value="Сохранить" /></p>
+</form>

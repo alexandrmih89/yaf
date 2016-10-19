@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title><?php echo $this->title; ?></title>
+  <link rel="stylesheet" href="/css/layout/layout.css" />
+</head>
+<body>
+  <div class="conteiner wrap">
+  	<header>
+      <h1 class="logo">
+        <a href="/">Абв</a>
+      </h1>
+      <nav class="menu">   
+        <a href="/">Объявления</a>    
+        <a href="/admin">Админка</a>
+        <a href="/add">Разместить объявление</a>
+      </nav>
+  	</header>
+    <div class="content">  
+      <?php echo $_content_; ?>    
+    </div>
+  </div>
+  <footer>
+    <div class="wrap">
+      <div class="copy">  
+    Copyright &copy; 2006 – <?php echo date('Y');?>. Все материалы, используемые на сайте, являются собственностью правообладателя – <a href="http://<?php echo $_SERVER['HTTP_HOST'];?>">Domain Name</a>
+      </div>
+    </div>
+  </footer>
+  <script type="text/javascript" src="/js/jquery/2.2.3/jquery.min.js"></script>
+  <script type="text/javascript" src="/js/masonry/masonry.pkgd.min.js"></script>
+  <script type="text/javascript" src="/js/castom/castom.js"></script>
+</body>
+</html>

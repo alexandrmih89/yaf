@@ -1,0 +1,47 @@
+<h2><?php echo $category_title; ?></h2>
+<?php foreach ($ads as $ad) { ?>
+	<h3><?php echo $ad['title']; ?></h3>
+	<p><?php echo $ad['text']; ?></p>
+	<div>Цена: <?php echo $ad['price']; ?></div>
+	<p><?php //echo $ad['mtime']; exit;?></p>
+	<hr />
+<?php }  ?>
+<div id="pagination" style="clear: both;">
+<?php
+	if(isset($pagi)){
+	if(isset($_GET['page'])){
+		$page = (int)$_GET['page'];
+	}else{
+		$page = 1;
+	}
+	if(isset($_GET['per-page'])){
+		$per_page = (int)$_GET['per-page'];
+	}else{
+		$per_page = 20;
+	}
+	if($pagi->total_pages() > 1) {
+		
+		if($pagi->has_previous_page()) { 
+			echo "<a href=\"?page=";
+			echo $pagi->previous_page();
+			echo "&per-page={$per_page}\">&laquo; Previous</a> "; 
+		}
+	
+		for($i=1; $i <= $pagi->total_pages(); $i++) {
+			if($i == $page) {
+				echo " <span class=\"selected\">{$i}</span> ";
+			} else {
+				echo " <a href=\"?page={$i}&per-page={$per_page}\">{$i}</a> "; 
+			}
+		}
+
+		if($pagi->has_next_page()) { 
+			echo " <a href=\"?page=";
+			echo $pagi->next_page();
+			echo "&per-page={$per_page}\">Next &raquo;</a> "; 
+		}		
+		
+	}
+	}
+?>
+</div>

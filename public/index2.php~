@@ -1,0 +1,8 @@
+<?php 
+echo 'hello world';
+class index2{
+public function __construct(){
+	echo 'hello world!';exit;
+}
+}
+?>

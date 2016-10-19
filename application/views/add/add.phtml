@@ -1,0 +1,87 @@
+﻿	<?php //echo '<pre>'.print_r($categories,1).'</pre>';?>
+<form action="/add/addtodb" enctype="multipart/form-data" method="post">
+	<!--<p>
+		<label for="region:">Выберите облость:</label>
+		<br />
+		<select name="region" >
+			<option disabled="disabled" selected="selected">не выбрано</option>
+			<option value="doneck">Донецкая</option>
+			<option value="lugansk">Луганская</option>
+		</select>
+	</p>
+
+	<p>
+		<label for="city">Выберите город:</label>
+		<br />
+		<select name="city">
+			<option disabled="disabled" selected="selected">не выбрано</option>
+			<option value="lugansk">Луганск</option>
+			<option value="doneck">Донецк</option>
+		</select>
+	</p>-->
+
+	<p>
+		<label for="category">Категория:</label><br />
+		<select name="category" id="category">
+			<option selected disabled>Не выбрано</option>
+				<?php foreach ($categories as $category) { ?>
+					<option  value="<?php echo $category['category']['table_ads']; ?>">
+						<?php echo $category['category']['name']; ?>
+					</option>
+					<?php if(isset($category['child'])){
+						foreach ($category['child'] as $subcategory) { ?>
+						<option value="<?php echo $subcategory['table_ads']; ?>">
+							&nbsp;– <?php echo $subcategory['name']; ?>
+						</option>
+					<?php }} ?>
+				<?php } ?> 
+		</select>		
+	</p>
+
+	<p>
+		<label for="title">Заголовок:</label><br />
+		<input type="text" name="title" id="title">
+	</p>
+
+	<p>
+		<label for="text">Описание:</label>
+		<br />
+		<textarea name="text" id="text"></textarea>
+	</p>
+	<p>
+		<label for="price">Цена:</label>
+		<br />
+		<input type="text" name="price" id="price">
+	</p>
+	<?php 
+		$max_file_size = 1048576;
+		//10240 = 10kb 
+		//102400 = 100kb 
+		//1048576 = 1Mb 
+		//10485760 = 10Mb 
+		//104857600 = 100Mb 
+	?>
+	<p>
+		<label for="file_uploaded">Загрузить файл</label><br />
+		<input type="hidden" name="MAX_FILE_SIZE" value="1048576" />
+		<input id="file_uploaded" type="file" name="file_uploaded" />
+	</p>
+	<p>
+		<label for="caption">Caption</label><br />
+		<input id="caption" type="text" name="caption" />
+	</p>	
+	
+	<p>
+		<label for="phone">Телефон:</label><br />
+		<input type="text" name="phone" id="phone"></p>
+	</p>
+
+	<p>
+		<label for="email">Электронная почта:</label><br />
+		<input type="text" name="email" id="email">
+	</p>
+
+	<p>
+		<input type="submit" value="Подать">
+	</p>	
+</form>

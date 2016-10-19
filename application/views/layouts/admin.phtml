@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+<html lang="ru">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title><?php echo $this->title; ?></title>
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+	<header class="navbar navbar-inverse navbar-fixed-top">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<button type="button" 
+						class="navbar-toggle" 
+						data-toggle="collapse" 
+						data-target="#responcive-menu" >
+					<span class="sr-only">открыть навигацию</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>						
+				</button>
+				<a class="navbar-brand" href="/">Абв</a>
+			</div>
+			<div id="responcive-menu" class="collapse navbar-collapse">
+				<ul class="navbar-nav nav" >
+					<li><a href="/admin">Админка</a></li>
+					<li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown" href="/admin/category">Категории <b class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li><a href="/admin/category">Список категорий</a></li>
+							<li><a href="/admin/category/create">Добавить категорию</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="/admin/logout"> 
+							<span class="glyphicon glyphicon-log-out" aria-hidden="true"></span>
+							Выход
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+		<!--<a href="/admin">админка</a>&nbsp;&nbsp;&nbsp;
+		<a href="/admin/logout">выход</a>&nbsp;&nbsp;&nbsp;-->
+	</header>
+	
+	<div class="container-fluid" style="padding-top: 51px;">
+	<?php echo $_content_; ?>
+	</div>
+	<script type="text/javascript" src="/js/jquery/2.2.3/jquery.min.js"></script>
+	<script type="text/javascript" src="/js/bootstrap.min.js"></script>
+</body>
+</html>

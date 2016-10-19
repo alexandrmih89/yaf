@@ -1,0 +1,14 @@
+<h1>Создать категорию</h1>
+<p><a href="/admin/category/">назад</a></p>
+<form action="<?php echo $_SERVER['REQUEST_URI']; ?>" method="post">
+	<p>Название: <input type="text" name="name" /></p>
+	<p>Путь    : <input type="text" name="path" /></p>
+	<p>Таблица объявлений    : <input type="text" name="table" /></p>
+	<p>Видимость: 
+	<select name="visible">
+	<option value="1">видимая</option>
+	<option value="0">не видимая</option>
+	</select>	
+	</p>
+	<p><input type="submit" value="Сохранить" /></p>
+</form>

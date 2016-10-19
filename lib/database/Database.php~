@@ -1,0 +1,31 @@
+<?php
+namespace database;
+class Database{
+	private $_connection;
+	private static $_instance;
+	public static function getInstance(){
+		if(!self::$_instance){
+			self::$_instance = new self();
+		}
+		return self::$_instance;
+	}
+	public function __construct() {		
+		$config = new \Yaf_Config_Ini(APP_PATH . '/config/app.ini','db');
+	 	try {
+	 		$this->_connection = new \PDO(
+	 			'mysql:host=' . $config->db->host . ':3306;'.
+	 			'dbname=' . $config->db->dbname . ';charset=UTF8', 
+	 			$config->db->username, 
+	 			$config->db->password
+	 		);
+	 		
+		} catch (\PDOException $e) {
+		    echo 'Error: ' . $e->getMessage();
+		    exit;
+		}				
+	}
+	private function __clone(){}
+	public function getConnection(){
+		return $this->_connection;
+	}
+}

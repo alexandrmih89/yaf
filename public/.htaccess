@@ -1,0 +1,6 @@
+RewriteEngine On
+#RewriteRule .* index.php
+RewriteRule !\.(js|ico|gif|jpg|png|css|html)$ index.php
+
+php_flag display_errors on
+AddDefaultCharset UTF-8

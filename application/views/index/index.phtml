@@ -1,0 +1,30 @@
+<div class="grid">
+<?php foreach ($categories as $category): ?>
+	<div class="grid-item">
+	<h2><a href="/<?php echo $category['category']['path']; ?>"><?php echo $category['category']['name']; ?></a></h2>	
+	<?php if(isset($category['child'])){ foreach ($category['child'] as $subcategory): ?>
+		<p><a href="/<?php echo $category['category']['path']; ?>/<?php echo $subcategory['path']; ?>/"><?php echo $subcategory['name']; ?></a></p>
+	<?php endforeach; } ?>
+	</div>
+<?php endforeach; ?>
+</div>
+<?php //print_r($aaa); ?>
+<!--<div class="grid">
+  <div class="grid-item">A asdsad asdasda sdfsdf sdfsdf sdfsdf sdfsdf sdfsdfsdf sdfsdf</div>
+  <div class="grid-item">B asdasdasdad daaasdas</div>
+  <div class="grid-item">C asdasdasdad daaasdas dsfsdf ssdfsdf sdfs dfsdf sdfs dfsdf sd</div>
+  <div class="grid-item">D asdsad asdasda sdfsdf sdfsdf sdfsdf sdfsdf sdfsdfsdf sdfsdf</div>
+  <div class="grid-item">E asdasdasdad daaasdas</div>
+  <div class="grid-item">F asdasdasdad daaasdas dsfsdf ssdfsdf sdfs dfsdf sdfs dfsdf sd</div>
+  <div class="grid-item">E1 asdsad asdasda sdfsdf sdfsdf sdfsdf sdfsdf sdfsdfsdf sdfsdf</div>
+  <div class="grid-item">G asdasdasdad daaasdas</div>
+  <div class="grid-item">H asdasdasdad daaasdas dsfsdf ssdfsdf sdfs dfsdf sdfs dfsdf sd</div>
+  <div class="grid-item">I asdsad asdasda sdfsdf sdfsdf sdfsdf sdfsdf sdfsdfsdf sdfsdf</div>
+  <div class="grid-item">J asdasdasdad daaasdas</div>
+  <div class="grid-item">K asdasdasdad daaasdas dsfsdf ssdfsdf sdfs dfsdf sdfs dfsdf sd</div>
+  <div class="grid-item">L asdsad asdasda sdfsdf sdfsdf sdfsdf sdfsdf sdfsdfsdf sdfsdf</div>
+  <div class="grid-item">M asdasdasdad daaasdas</div>
+  <div class="grid-item">N asdasdasdad daaasdas dsfsdf ssdfsdf sdfs dfsdf sdfs dfsdf sd</div>  
+</div>-->
+
+

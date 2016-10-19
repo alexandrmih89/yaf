@@ -1,0 +1,1975 @@
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,823,436,418ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,823,507,571ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,824,076,074ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,824,311,604ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,824,317,641ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,824,405,458ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,824,433,436ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,824,452,708ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,824,474,017ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,824,647,662ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,824,653,212ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,824,674,290ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,825,408,332ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,825,701,439ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,825,854,436ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,825,935,750ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,826,185,902ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,826,219,984ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,826,282,045ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,826,306,557ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,826,712,048ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,826,893,776ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Asda.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,827,379,751ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: errstr in file /var/www/test/application/controllers/Add.php at line 30
+#0 /var/www/test/application/controllers/Add.php(30): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 30, Array)
+#1 [internal function]: AddController->addtodbAction()
+#2 /var/www/test/public/index.php(5): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,463,827,612,916ms | Mem Usage: (2.048 kb)[0m
+ErrorException: gfhg in file /var/www/test/application/controllers/Add.php at line 30
+#0 [internal function]: AddController->addtodbAction()
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,827,690,222ms | Mem Usage: (2.048 kb)[0m
+ErrorException: 1 in file /var/www/test/application/controllers/Add.php at line 30
+#0 [internal function]: AddController->addtodbAction()
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,827,713,669ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_View_Simple::render(): Failed opening template /var/www/test/application/views/add/addtodb.phtml: No such file or directory in file /var/www/test/lib/eYaf/Layout.php at line 300
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_View_Simple...', '/var/www/test/l...', 300, Array)
+#1 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('add/addtodb.pht...', Array)
+#2 [internal function]: eYaf\Layout->render('add/addtodb.pht...')
+#3 [internal function]: Yaf_Controller_Abstract->render('addtodb')
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,463,828,483,472ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_View_Simple::render(): Failed opening template /var/www/test/application/views/add/addtodb.phtml: No such file or directory in file /var/www/test/lib/eYaf/Layout.php at line 300
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_View_Simple...', '/var/www/test/l...', 300, Array)
+#1 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('add/addtodb.pht...', Array)
+#2 [internal function]: eYaf\Layout->render('add/addtodb.pht...')
+#3 [internal function]: Yaf_Controller_Abstract->render('addtodb')
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,463,828,515,025ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/404.php: Success in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,828,785,185ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/404.php: Success in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,828,853,081ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/404.php: Success in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,829,156,351ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/404.php: Success in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,829,212,677ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/404.php: Success in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,829,260,686ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/404.php: Success in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,829,265,191ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/404.php: Success in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,829,268,846ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_View_Simple::render(): Failed opening template /var/www/test/application/views/add/addtodb.phtml: No such file or directory in file /var/www/test/lib/eYaf/Layout.php at line 300
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_View_Simple...', '/var/www/test/l...', 300, Array)
+#1 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('add/addtodb.pht...', Array)
+#2 [internal function]: eYaf\Layout->render('add/addtodb.pht...')
+#3 [internal function]: Yaf_Controller_Abstract->render('addtodb')
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,463,830,350,204ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: subcategory in file /var/www/test/application/controllers/Catalog.php at line 21
+#0 /var/www/test/application/controllers/Catalog.php(21): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 21, Array)
+#1 [internal function]: CatalogController->subcategoryAction()
+#2 /var/www/test/public/index.php(5): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,463,832,426,012ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Catalog.php: Inappropriate ioctl for device in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,832,562,891ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: subcategory in file /var/www/test/application/controllers/Catalog.php at line 21
+#0 /var/www/test/application/controllers/Catalog.php(21): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 21, Array)
+#1 [internal function]: CatalogController->subcategoryAction()
+#2 /var/www/test/public/index.php(5): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,463,832,624,488ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: subcategory in file /var/www/test/application/controllers/Catalog.php at line 21
+#0 /var/www/test/application/controllers/Catalog.php(21): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 21, Array)
+#1 [internal function]: CatalogController->subcategoryAction()
+#2 /var/www/test/public/index.php(5): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,463,832,625,722ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: subcategory in file /var/www/test/application/controllers/Catalog.php at line 21
+#0 /var/www/test/application/controllers/Catalog.php(21): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 21, Array)
+#1 [internal function]: CatalogController->subcategoryAction()
+#2 /var/www/test/public/index.php(5): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,463,832,767,783ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Zhivotniy-mir.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,832,862,463ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Zhivotniy-mir.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,833,000,045ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Zhivotniy-mir.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,463,833,022,166ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: category in file /var/www/test/application/controllers/Add.php at line 25
+#0 /var/www/test/application/controllers/Add.php(25): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 25, Array)
+#1 [internal function]: AddController->addtodbAction()
+#2 /var/www/test/public/index.php(5): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,463,988,525,855ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: result in file /var/www/test/application/models/Add.php at line 16
+#0 /var/www/test/application/models/Add.php(16): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 16, Array)
+#1 /var/www/test/application/controllers/Add.php(26): AddModel::setAd(''test\\''', ''5'')
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,463,990,698,220ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: result in file /var/www/test/application/models/Add.php at line 16
+#0 /var/www/test/application/models/Add.php(16): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 16, Array)
+#1 /var/www/test/application/controllers/Add.php(26): AddModel::setAd(''test\\''', ''5'')
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,463,990,715,084ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/Database.php: No such file or directory in file /var/www/test/application/controllers/Add.php at line 33
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/a...', 33, Array)
+#1 [internal function]: Yaf_Loader->autoload('Database')
+#2 /var/www/test/application/controllers/Add.php(33): spl_autoload_call('Database')
+#3 [internal function]: AddController->addtodbAction()
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,000,968,805ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/Database.php: No such file or directory in file /var/www/test/application/controllers/Add.php at line 33
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/a...', 33, Array)
+#1 [internal function]: Yaf_Loader->autoload('Database')
+#2 /var/www/test/application/controllers/Add.php(33): spl_autoload_call('Database')
+#3 [internal function]: AddController->addtodbAction()
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,000,978,613ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: add in file /var/www/test/lib/database/Database.php at line 43
+#0 /var/www/test/lib/database/Database.php(43): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 43, Array)
+#1 /var/www/test/application/controllers/Add.php(33): database\Database::getAssoc('select * from a...')
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,001,039,677ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: add in file /var/www/test/lib/database/Database.php at line 43
+#0 /var/www/test/lib/database/Database.php(43): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 43, Array)
+#1 /var/www/test/application/controllers/Add.php(33): database\Database::getAssoc('select * from a...')
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,001,044,195ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: add in file /var/www/test/lib/database/Database.php at line 43
+#0 /var/www/test/lib/database/Database.php(43): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 43, Array)
+#1 /var/www/test/application/controllers/Add.php(33): database\Database::getAssoc('select * from a...')
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,001,125,144ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: add in file /var/www/test/lib/database/Database.php at line 43
+#0 /var/www/test/lib/database/Database.php(43): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 43, Array)
+#1 /var/www/test/application/controllers/Add.php(33): database\Database::getAssoc('select * from a...')
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,001,128,396ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: add in file /var/www/test/lib/database/Database.php at line 43
+#0 /var/www/test/lib/database/Database.php(43): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 43, Array)
+#1 /var/www/test/application/controllers/Add.php(34): database\Database::getAssoc('select * from a...')
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,001,160,461ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: add in file /var/www/test/lib/database/Database.php at line 43
+#0 /var/www/test/lib/database/Database.php(43): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 43, Array)
+#1 /var/www/test/application/controllers/Add.php(35): database\Database::getAssoc('select * from a...')
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,001,197,332ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: add in file /var/www/test/lib/database/Database.php at line 43
+#0 /var/www/test/lib/database/Database.php(43): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 43, Array)
+#1 /var/www/test/application/controllers/Add.php(35): database\Database::getAssoc('select * from a...')
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,001,235,533ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: add in file /var/www/test/lib/database/Database.php at line 44
+#0 /var/www/test/lib/database/Database.php(44): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 44, Array)
+#1 /var/www/test/application/controllers/Add.php(35): database\Database::getAssoc('select * from a...')
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,001,254,280ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/database/PDO.php: No such file or directory in file /var/www/test/lib/database/Database.php at line 47
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/l...', 47, Array)
+#1 [internal function]: Yaf_Loader->autoload('database\\PDO')
+#2 /var/www/test/lib/database/Database.php(47): spl_autoload_call('database\\PDO')
+#3 /var/www/test/application/controllers/Add.php(35): database\Database::getAssoc('select * from a...')
+#4 [internal function]: AddController->addtodbAction()
+#5 /var/www/test/public/index.php(5): Yaf_Application->run()
+#6 {main}
+[1;32mCompleted in 1,464,001,303,058ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/database/PDO.php: No such file or directory in file /var/www/test/lib/database/Database.php at line 47
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/l...', 47, Array)
+#1 [internal function]: Yaf_Loader->autoload('database\\PDO')
+#2 /var/www/test/lib/database/Database.php(47): spl_autoload_call('database\\PDO')
+#3 /var/www/test/application/controllers/Add.php(35): database\Database::getAssoc('select * from a...')
+#4 [internal function]: AddController->addtodbAction()
+#5 /var/www/test/public/index.php(5): Yaf_Application->run()
+#6 {main}
+[1;32mCompleted in 1,464,001,349,290ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/database/PDO.php: No such file or directory in file /var/www/test/lib/database/Database.php at line 48
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/l...', 48, Array)
+#1 [internal function]: Yaf_Loader->autoload('database\\PDO')
+#2 /var/www/test/lib/database/Database.php(48): spl_autoload_call('database\\PDO')
+#3 /var/www/test/application/controllers/Add.php(35): database\Database::getAssoc('select * from a...')
+#4 [internal function]: AddController->addtodbAction()
+#5 /var/www/test/public/index.php(5): Yaf_Application->run()
+#6 {main}
+[1;32mCompleted in 1,464,001,407,761ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/database/PDO.php: No such file or directory in file /var/www/test/lib/database/Database.php at line 48
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/l...', 48, Array)
+#1 [internal function]: Yaf_Loader->autoload('database\\PDO')
+#2 /var/www/test/lib/database/Database.php(48): spl_autoload_call('database\\PDO')
+#3 /var/www/test/application/controllers/Add.php(36): database\Database::getAssoc('SELECT id, text...')
+#4 [internal function]: AddController->addtodbAction()
+#5 /var/www/test/public/index.php(5): Yaf_Application->run()
+#6 {main}
+[1;32mCompleted in 1,464,001,484,175ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/database/PDO.php: No such file or directory in file /var/www/test/lib/database/Database.php at line 48
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/l...', 48, Array)
+#1 [internal function]: Yaf_Loader->autoload('database\\PDO')
+#2 /var/www/test/lib/database/Database.php(48): spl_autoload_call('database\\PDO')
+#3 /var/www/test/application/controllers/Add.php(36): database\Database::getAssoc('SELECT id, text...')
+#4 [internal function]: AddController->addtodbAction()
+#5 /var/www/test/public/index.php(5): Yaf_Application->run()
+#6 {main}
+[1;32mCompleted in 1,464,001,486,709ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/database/PDO.php: No such file or directory in file /var/www/test/lib/database/Database.php at line 48
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/l...', 48, Array)
+#1 [internal function]: Yaf_Loader->autoload('database\\PDO')
+#2 /var/www/test/lib/database/Database.php(48): spl_autoload_call('database\\PDO')
+#3 /var/www/test/application/controllers/Add.php(36): database\Database::getAssoc('SELECT id, text...')
+#4 [internal function]: AddController->addtodbAction()
+#5 /var/www/test/public/index.php(5): Yaf_Application->run()
+#6 {main}
+[1;32mCompleted in 1,464,001,508,125ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/database/PDO.php: No such file or directory in file /var/www/test/lib/database/Database.php at line 48
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/l...', 48, Array)
+#1 [internal function]: Yaf_Loader->autoload('database\\PDO')
+#2 /var/www/test/lib/database/Database.php(48): spl_autoload_call('database\\PDO')
+#3 /var/www/test/application/controllers/Add.php(36): database\Database::getAssoc('SELECT id, text...')
+#4 [internal function]: AddController->addtodbAction()
+#5 /var/www/test/public/index.php(5): Yaf_Application->run()
+#6 {main}
+[1;32mCompleted in 1,464,001,510,610ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/database/PDO.php: No such file or directory in file /var/www/test/lib/database/Database.php at line 49
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/l...', 49, Array)
+#1 [internal function]: Yaf_Loader->autoload('database\\PDO')
+#2 /var/www/test/lib/database/Database.php(49): spl_autoload_call('database\\PDO')
+#3 /var/www/test/application/controllers/Add.php(36): database\Database::getAssoc('SELECT id, text...')
+#4 [internal function]: AddController->addtodbAction()
+#5 /var/www/test/public/index.php(5): Yaf_Application->run()
+#6 {main}
+[1;32mCompleted in 1,464,001,577,042ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/database/Yaf/Registry.php: No such file or directory in file /var/www/test/lib/database/Database.php at line 59
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/l...', 59, Array)
+#1 [internal function]: Yaf_Loader->autoload('database\\Yaf_Re...')
+#2 /var/www/test/lib/database/Database.php(59): spl_autoload_call('database\\Yaf_Re...')
+#3 /var/www/test/application/controllers/Add.php(35): database\Database::getAssoc()
+#4 [internal function]: AddController->addtodbAction()
+#5 /var/www/test/public/index.php(5): Yaf_Application->run()
+#6 {main}
+[1;32mCompleted in 1,464,001,866,108ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/database/Yaf/Registry.php: No such file or directory in file /var/www/test/lib/database/Database.php at line 59
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/l...', 59, Array)
+#1 [internal function]: Yaf_Loader->autoload('database\\Yaf_Re...')
+#2 /var/www/test/lib/database/Database.php(59): spl_autoload_call('database\\Yaf_Re...')
+#3 /var/www/test/application/controllers/Add.php(35): database\Database::getAssoc()
+#4 [internal function]: AddController->addtodbAction()
+#5 /var/www/test/public/index.php(5): Yaf_Application->run()
+#6 {main}
+[1;32mCompleted in 1,464,001,869,877ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/database/Yaf/Registry.php: No such file or directory in file /var/www/test/lib/database/Database.php at line 59
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/l...', 59, Array)
+#1 [internal function]: Yaf_Loader->autoload('database\\Yaf_Re...')
+#2 /var/www/test/lib/database/Database.php(59): spl_autoload_call('database\\Yaf_Re...')
+#3 /var/www/test/application/controllers/Add.php(35): database\Database::getAssoc()
+#4 [internal function]: AddController->addtodbAction()
+#5 /var/www/test/public/index.php(5): Yaf_Application->run()
+#6 {main}
+[1;32mCompleted in 1,464,001,871,765ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: category in file /var/www/test/lib/database/Database.php at line 66
+#0 /var/www/test/lib/database/Database.php(66): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 66, Array)
+#1 /var/www/test/application/controllers/Add.php(35): database\Database::getAssoc()
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,001,906,190ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: category in file /var/www/test/lib/database/Database.php at line 66
+#0 /var/www/test/lib/database/Database.php(66): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 66, Array)
+#1 /var/www/test/application/controllers/Add.php(35): database\Database::getAssoc()
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,001,908,025ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: category in file /var/www/test/lib/database/Database.php at line 66
+#0 /var/www/test/lib/database/Database.php(66): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 66, Array)
+#1 /var/www/test/application/controllers/Add.php(35): database\Database::getAssoc()
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,001,910,183ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: category in file /var/www/test/lib/database/Database.php at line 66
+#0 /var/www/test/lib/database/Database.php(66): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 66, Array)
+#1 /var/www/test/application/controllers/Add.php(35): database\Database::getAssoc()
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,001,929,486ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: category in file /var/www/test/lib/database/Database.php at line 66
+#0 /var/www/test/lib/database/Database.php(66): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 66, Array)
+#1 /var/www/test/application/controllers/Add.php(35): database\Database::getAssoc()
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,001,945,030ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: category in file /var/www/test/lib/database/Database.php at line 66
+#0 /var/www/test/lib/database/Database.php(66): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 66, Array)
+#1 /var/www/test/application/controllers/Add.php(35): database\Database::getAssoc()
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,001,966,767ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: category in file /var/www/test/lib/database/Database.php at line 66
+#0 /var/www/test/lib/database/Database.php(66): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 66, Array)
+#1 /var/www/test/application/controllers/Add.php(35): database\Database::getAssoc()
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,001,969,033ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/Database.php: No such file or directory in file /var/www/test/application/controllers/Add.php at line 35
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/a...', 35, Array)
+#1 [internal function]: Yaf_Loader->autoload('Database')
+#2 /var/www/test/application/controllers/Add.php(35): spl_autoload_call('Database')
+#3 [internal function]: AddController->addtodbAction()
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,002,032,217ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/Database.php: No such file or directory in file /var/www/test/application/models/Add.php at line 13
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/a...', 13, Array)
+#1 [internal function]: Yaf_Loader->autoload('Database')
+#2 /var/www/test/application/models/Add.php(13): spl_autoload_call('Database')
+#3 /var/www/test/application/controllers/Add.php(26): AddModel::setAd('sdas', '5')
+#4 [internal function]: AddController->addtodbAction()
+#5 /var/www/test/public/index.php(5): Yaf_Application->run()
+#6 {main}
+[1;32mCompleted in 1,464,002,120,850ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: category in file /var/www/test/lib/database/Database.php at line 66
+#0 /var/www/test/lib/database/Database.php(66): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 66, Array)
+#1 /var/www/test/application/models/Add.php(13): database\Database::getAssoc()
+#2 /var/www/test/application/controllers/Add.php(26): AddModel::setAd('sdas', '5')
+#3 [internal function]: AddController->addtodbAction()
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,002,155,619ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/database/PDO.php: No such file or directory in file /var/www/test/lib/database/Database.php at line 67
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/l...', 67, Array)
+#1 [internal function]: Yaf_Loader->autoload('database\\PDO')
+#2 /var/www/test/lib/database/Database.php(67): spl_autoload_call('database\\PDO')
+#3 /var/www/test/application/models/Add.php(13): database\Database::getAssoc()
+#4 /var/www/test/application/controllers/Add.php(26): AddModel::setAd('sdas', '5')
+#5 [internal function]: AddController->addtodbAction()
+#6 /var/www/test/public/index.php(5): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,002,298,205ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/database/PDO.php: No such file or directory in file /var/www/test/lib/database/Database.php at line 67
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/l...', 67, Array)
+#1 [internal function]: Yaf_Loader->autoload('database\\PDO')
+#2 /var/www/test/lib/database/Database.php(67): spl_autoload_call('database\\PDO')
+#3 /var/www/test/application/models/Add.php(13): database\Database::getAssoc()
+#4 /var/www/test/application/controllers/Add.php(26): AddModel::setAd('sdas', '5')
+#5 [internal function]: AddController->addtodbAction()
+#6 /var/www/test/public/index.php(5): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,002,451,463ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/database/PDO.php: No such file or directory in file /var/www/test/lib/database/Database.php at line 67
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/l...', 67, Array)
+#1 [internal function]: Yaf_Loader->autoload('database\\PDO')
+#2 /var/www/test/lib/database/Database.php(67): spl_autoload_call('database\\PDO')
+#3 /var/www/test/application/models/Add.php(13): database\Database::getAssoc()
+#4 /var/www/test/application/controllers/Add.php(26): AddModel::setAd('sdas', '5')
+#5 [internal function]: AddController->addtodbAction()
+#6 /var/www/test/public/index.php(5): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,002,583,792ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/database/PDO.php: No such file or directory in file /var/www/test/lib/database/Database.php at line 67
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/l...', 67, Array)
+#1 [internal function]: Yaf_Loader->autoload('database\\PDO')
+#2 /var/www/test/lib/database/Database.php(67): spl_autoload_call('database\\PDO')
+#3 /var/www/test/application/models/Add.php(13): database\Database::getAsoc()
+#4 /var/www/test/application/controllers/Add.php(26): AddModel::setAd('sdas', '5')
+#5 [internal function]: AddController->addtodbAction()
+#6 /var/www/test/public/index.php(5): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,002,719,585ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: sql in file /var/www/test/lib/database/Database.php at line 46
+#0 /var/www/test/lib/database/Database.php(46): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 46, Array)
+#1 /var/www/test/application/controllers/Add.php(32): database\Database::getAssoc('select * from a...')
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,002,968,238ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: sql in file /var/www/test/lib/database/Database.php at line 46
+#0 /var/www/test/lib/database/Database.php(46): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 46, Array)
+#1 /var/www/test/application/controllers/Add.php(32): database\Database::getAssoc('select * from a...')
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,002,971,924ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: sql in file /var/www/test/lib/database/Database.php at line 46
+#0 /var/www/test/lib/database/Database.php(46): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 46, Array)
+#1 /var/www/test/application/controllers/Add.php(32): database\Database::getAssoc('select * from a...')
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,002,975,266ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/Database.php: No such file or directory in file /var/www/test/application/controllers/Add.php at line 32
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/a...', 32, Array)
+#1 [internal function]: Yaf_Loader->autoload('Database')
+#2 /var/www/test/application/controllers/Add.php(32): spl_autoload_call('Database')
+#3 [internal function]: AddController->addtodbAction()
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,003,019,701ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/Database.php: No such file or directory in file /var/www/test/application/controllers/Add.php at line 32
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/a...', 32, Array)
+#1 [internal function]: Yaf_Loader->autoload('Database')
+#2 /var/www/test/application/controllers/Add.php(32): spl_autoload_call('Database')
+#3 [internal function]: AddController->addtodbAction()
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,003,022,511ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: add in file /var/www/test/lib/database/Database.php at line 45
+#0 /var/www/test/lib/database/Database.php(45): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 45, Array)
+#1 /var/www/test/application/controllers/Add.php(32): database\Database::getAssoc('select * from a...')
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,003,108,070ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: add in file /var/www/test/lib/database/Database.php at line 45
+#0 /var/www/test/lib/database/Database.php(45): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 45, Array)
+#1 /var/www/test/application/controllers/Add.php(32): database\Database::getAssoc('select * from a...')
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,003,110,890ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: add in file /var/www/test/lib/database/Database.php at line 45
+#0 /var/www/test/lib/database/Database.php(45): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 45, Array)
+#1 /var/www/test/application/controllers/Add.php(32): database\Database::getAssoc('select * from ')
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,003,277,446ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: add in file /var/www/test/lib/database/Database.php at line 45
+#0 /var/www/test/lib/database/Database.php(45): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 45, Array)
+#1 /var/www/test/application/controllers/Add.php(32): database\Database::getAssoc('select * from ')
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,003,279,893ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Catalog.php: Inappropriate ioctl for device in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,464,026,796,420ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/&amp;'%3ch1%3eaaa.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,464,076,320,025ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/&amp;'%3ch1%3eaaa.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,464,076,365,855ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: add in file /var/www/test/application/models/Catalog.php at line 35
+#0 /var/www/test/application/models/Catalog.php(35): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 35, Array)
+#1 /var/www/test/application/controllers/Catalog.php(51): CatalogModel::getAdsByCatrgory('transport')
+#2 [internal function]: CatalogController->categoryAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,082,599,285ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: pervpage in file /var/www/test/lib/core/Pagi.php at line 43
+#0 /var/www/test/lib/core/Pagi.php(43): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 43, Array)
+#1 /var/www/test/application/models/Catalog.php(64): core\Pagi->getPages()
+#2 /var/www/test/application/controllers/Catalog.php(51): CatalogModel::getAdsByCatrgory(''transport'')
+#3 [internal function]: CatalogController->categoryAction()
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,083,640,894ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: pervpage in file /var/www/test/lib/core/Pagi.php at line 43
+#0 /var/www/test/lib/core/Pagi.php(43): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 43, Array)
+#1 /var/www/test/application/models/Catalog.php(64): core\Pagi->getPages()
+#2 /var/www/test/application/controllers/Catalog.php(51): CatalogModel::getAdsByCatrgory(''transport'')
+#3 [internal function]: CatalogController->categoryAction()
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,083,644,137ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: page in file /var/www/test/application/models/Catalog.php at line 82
+#0 /var/www/test/application/models/Catalog.php(82): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 82, Array)
+#1 /var/www/test/application/controllers/Catalog.php(51): CatalogModel::getAdsByCatrgory(''transport'')
+#2 [internal function]: CatalogController->categoryAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,084,594,416ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: page in file /var/www/test/application/models/Catalog.php at line 82
+#0 /var/www/test/application/models/Catalog.php(82): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 82, Array)
+#1 /var/www/test/application/controllers/Catalog.php(51): CatalogModel::getAdsByCatrgory(''transport'')
+#2 [internal function]: CatalogController->categoryAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,084,626,626ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: page2left in file /var/www/test/lib/core/Pagi.php at line 43
+#0 /var/www/test/lib/core/Pagi.php(43): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 43, Array)
+#1 /var/www/test/application/models/Catalog.php(82): core\Pagi::getPages('2', '13')
+#2 /var/www/test/application/controllers/Catalog.php(51): CatalogModel::getAdsByCatrgory(''transport'')
+#3 [internal function]: CatalogController->categoryAction()
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,084,640,685ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: pervpage in file /var/www/test/lib/core/Pagi.php at line 43
+#0 /var/www/test/lib/core/Pagi.php(43): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 43, Array)
+#1 /var/www/test/application/models/Catalog.php(82): core\Pagi::getPages('1', '13')
+#2 /var/www/test/application/controllers/Catalog.php(51): CatalogModel::getAdsByCatrgory(''transport'')
+#3 [internal function]: CatalogController->categoryAction()
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,084,642,163ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: pervpage in file /var/www/test/lib/core/Pagi.php at line 43
+#0 /var/www/test/lib/core/Pagi.php(43): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 43, Array)
+#1 /var/www/test/application/models/Catalog.php(82): core\Pagi::getPages('1', '13')
+#2 /var/www/test/application/controllers/Catalog.php(51): CatalogModel::getAdsByCatrgory(''transport'')
+#3 [internal function]: CatalogController->categoryAction()
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,084,675,261ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: page2left in file /var/www/test/lib/core/Pagi.php at line 43
+#0 /var/www/test/lib/core/Pagi.php(43): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 43, Array)
+#1 /var/www/test/application/models/Catalog.php(82): core\Pagi::getPages('2', '13')
+#2 /var/www/test/application/controllers/Catalog.php(51): CatalogModel::getAdsByCatrgory(''transport'')
+#3 [internal function]: CatalogController->categoryAction()
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,084,678,664ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: pervpage in file /var/www/test/lib/core/Pagi.php at line 43
+#0 /var/www/test/lib/core/Pagi.php(43): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 43, Array)
+#1 /var/www/test/application/models/Catalog.php(82): core\Pagi::getPages('1', '13')
+#2 /var/www/test/application/controllers/Catalog.php(51): CatalogModel::getAdsByCatrgory(''transport'')
+#3 [internal function]: CatalogController->categoryAction()
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,084,700,800ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: page1right in file /var/www/test/lib/core/Pagi.php at line 43
+#0 /var/www/test/lib/core/Pagi.php(43): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 43, Array)
+#1 /var/www/test/application/models/Catalog.php(82): core\Pagi::getPages('100', '13')
+#2 /var/www/test/application/controllers/Catalog.php(51): CatalogModel::getAdsByCatrgory(''transport'')
+#3 [internal function]: CatalogController->categoryAction()
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,084,701,833ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: pervpage in file /var/www/test/lib/core/Pagi.php at line 43
+#0 /var/www/test/lib/core/Pagi.php(43): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 43, Array)
+#1 /var/www/test/application/models/Catalog.php(82): core\Pagi::getPages('1', '13')
+#2 /var/www/test/application/controllers/Catalog.php(51): CatalogModel::getAdsByCatrgory(''transport'')
+#3 [internal function]: CatalogController->categoryAction()
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,084,735,513ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: pervpage in file /var/www/test/lib/core/Pagi.php at line 43
+#0 /var/www/test/lib/core/Pagi.php(43): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 43, Array)
+#1 /var/www/test/application/models/Catalog.php(82): core\Pagi::getPages('1', '13')
+#2 /var/www/test/application/controllers/Catalog.php(51): CatalogModel::getAdsByCatrgory(''transport'')
+#3 [internal function]: CatalogController->categoryAction()
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,084,849,558ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: page1right in file /var/www/test/lib/core/Pagi.php at line 43
+#0 /var/www/test/lib/core/Pagi.php(43): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 43, Array)
+#1 /var/www/test/application/models/Catalog.php(82): core\Pagi::getPages('13', '13')
+#2 /var/www/test/application/controllers/Catalog.php(51): CatalogModel::getAdsByCatrgory(''transport'')
+#3 [internal function]: CatalogController->categoryAction()
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,084,856,197ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: page2right in file /var/www/test/lib/core/Pagi.php at line 43
+#0 /var/www/test/lib/core/Pagi.php(43): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 43, Array)
+#1 /var/www/test/application/models/Catalog.php(82): core\Pagi::getPages('12', '13')
+#2 /var/www/test/application/controllers/Catalog.php(51): CatalogModel::getAdsByCatrgory(''transport'')
+#3 [internal function]: CatalogController->categoryAction()
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,084,860,224ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: page1right in file /var/www/test/lib/core/Pagi.php at line 43
+#0 /var/www/test/lib/core/Pagi.php(43): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 43, Array)
+#1 /var/www/test/application/models/Catalog.php(82): core\Pagi::getPages('13', '13')
+#2 /var/www/test/application/controllers/Catalog.php(51): CatalogModel::getAdsByCatrgory(''transport'')
+#3 [internal function]: CatalogController->categoryAction()
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,084,887,237ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: page2right in file /var/www/test/lib/core/Pagi.php at line 43
+#0 /var/www/test/lib/core/Pagi.php(43): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 43, Array)
+#1 /var/www/test/application/models/Catalog.php(82): core\Pagi::getPages('12', '13')
+#2 /var/www/test/application/controllers/Catalog.php(51): CatalogModel::getAdsByCatrgory(''transport'')
+#3 [internal function]: CatalogController->categoryAction()
+#4 /var/www/test/public/index.php(5): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,084,891,930ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: tree in file /var/www/test/application/models/Add.php at line 7
+#0 /var/www/test/application/models/Add.php(7): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 7, Array)
+#1 /var/www/test/application/controllers/Add.php(28): AddModel::setAd(Array)
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,098,762,789ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: tree in file /var/www/test/application/models/Add.php at line 7
+#0 /var/www/test/application/models/Add.php(7): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 7, Array)
+#1 /var/www/test/application/controllers/Add.php(28): AddModel::setAd(Array)
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,098,820,108ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: tree in file /var/www/test/application/models/Add.php at line 8
+#0 /var/www/test/application/models/Add.php(8): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 8, Array)
+#1 /var/www/test/application/controllers/Add.php(28): AddModel::setAd(Array)
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(5): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,098,842,022ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: title in file /var/www/test/application/views/catalog/catalog.phtml at line 3
+#0 /var/www/test/application/views/catalog/catalog.phtml(3): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 3, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('catalog/catalog...', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('catalog/catalog...', Array)
+#4 /var/www/test/application/controllers/Catalog.php(33): eYaf\Layout->display('catalog/catalog...')
+#5 [internal function]: CatalogController->subcategoryAction()
+#6 /var/www/test/public/index.php(5): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,100,424,831ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: subcategory in file /var/www/test/application/views/catalog/catalog.phtml at line 1
+#0 /var/www/test/application/views/catalog/catalog.phtml(1): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 1, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('catalog/catalog...', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('catalog/catalog...', Array)
+#4 /var/www/test/application/controllers/Catalog.php(58): eYaf\Layout->display('catalog/catalog...')
+#5 [internal function]: CatalogController->categoryAction()
+#6 /var/www/test/public/index.php(5): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,100,956,196ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: title in file /var/www/test/application/views/catalog/catalog.phtml at line 3
+#0 /var/www/test/application/views/catalog/catalog.phtml(3): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 3, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('catalog/catalog...', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('catalog/catalog...', Array)
+#4 /var/www/test/application/controllers/Catalog.php(58): eYaf\Layout->display('catalog/catalog...')
+#5 [internal function]: CatalogController->categoryAction()
+#6 /var/www/test/public/index.php(5): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,101,115,448ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: title in file /var/www/test/application/views/catalog/catalog.phtml at line 3
+#0 /var/www/test/application/views/catalog/catalog.phtml(3): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 3, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('catalog/catalog...', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('catalog/catalog...', Array)
+#4 /var/www/test/application/controllers/Catalog.php(58): eYaf\Layout->display('catalog/catalog...')
+#5 [internal function]: CatalogController->categoryAction()
+#6 /var/www/test/public/index.php(5): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,101,117,705ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: title in file /var/www/test/application/views/catalog/catalog.phtml at line 3
+#0 /var/www/test/application/views/catalog/catalog.phtml(3): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 3, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('catalog/catalog...', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('catalog/catalog...', Array)
+#4 /var/www/test/application/controllers/Catalog.php(59): eYaf\Layout->display('catalog/catalog...')
+#5 [internal function]: CatalogController->categoryAction()
+#6 /var/www/test/public/index.php(5): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,101,199,508ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: title in file /var/www/test/application/views/catalog/catalog.phtml at line 4
+#0 /var/www/test/application/views/catalog/catalog.phtml(4): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 4, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('catalog/catalog...', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('catalog/catalog...', Array)
+#4 /var/www/test/application/controllers/Catalog.php(61): eYaf\Layout->display('catalog/catalog...')
+#5 [internal function]: CatalogController->categoryAction()
+#6 /var/www/test/public/index.php(5): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,101,298,127ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: title in file /var/www/test/application/views/catalog/catalog.phtml at line 4
+#0 /var/www/test/application/views/catalog/catalog.phtml(4): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 4, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('catalog/catalog...', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('catalog/catalog...', Array)
+#4 /var/www/test/application/controllers/Catalog.php(61): eYaf\Layout->display('catalog/catalog...')
+#5 [internal function]: CatalogController->categoryAction()
+#6 /var/www/test/public/index.php(5): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,101,300,420ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Transport.php: No such file or directory in file /var/www/test/public/index.php at line 5
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 5, Array)
+#1 /var/www/test/public/index.php(5): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,464,103,519,341ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/database/PDO.php: No such file or directory in file /var/www/test/lib/database/Database.php at line 41
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/l...', 41, Array)
+#1 [internal function]: Yaf_Loader->autoload('database\\PDO')
+#2 /var/www/test/lib/database/Database.php(41): spl_autoload_call('database\\PDO')
+#3 /var/www/test/application/models/Catalog.php(115): database\Database->query('SELECT name FRO...')
+#4 /var/www/test/application/controllers/Catalog.php(18): CatalogModel::getCategoryName('transport')
+#5 [internal function]: CatalogController->subcategoryAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,117,961,042ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/database/PDO.php: No such file or directory in file /var/www/test/lib/database/Database.php at line 41
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/l...', 41, Array)
+#1 [internal function]: Yaf_Loader->autoload('database\\PDO')
+#2 /var/www/test/lib/database/Database.php(41): spl_autoload_call('database\\PDO')
+#3 /var/www/test/application/models/Catalog.php(117): database\Database->query('SELECT name FRO...')
+#4 /var/www/test/application/controllers/Catalog.php(18): CatalogModel::getCategoryName('transport')
+#5 [internal function]: CatalogController->subcategoryAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,118,173,096ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/database/PDO.php: No such file or directory in file /var/www/test/lib/database/Database.php at line 43
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/l...', 43, Array)
+#1 [internal function]: Yaf_Loader->autoload('database\\PDO')
+#2 /var/www/test/lib/database/Database.php(43): spl_autoload_call('database\\PDO')
+#3 /var/www/test/application/models/Catalog.php(117): database\Database->query('SELECT name FRO...')
+#4 /var/www/test/application/controllers/Catalog.php(18): CatalogModel::getCategoryName('transport')
+#5 [internal function]: CatalogController->subcategoryAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,118,258,171ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/database/PDO.php: No such file or directory in file /var/www/test/lib/database/Database.php at line 41
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/l...', 41, Array)
+#1 [internal function]: Yaf_Loader->autoload('database\\PDO')
+#2 /var/www/test/lib/database/Database.php(41): spl_autoload_call('database\\PDO')
+#3 /var/www/test/application/models/Catalog.php(117): database\Database->query('SELECT name FRO...')
+#4 /var/www/test/application/controllers/Catalog.php(18): CatalogModel::getCategoryName('transport')
+#5 [internal function]: CatalogController->subcategoryAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,118,376,142ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/database/PDO.php: No such file or directory in file /var/www/test/lib/database/Database.php at line 41
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/l...', 41, Array)
+#1 [internal function]: Yaf_Loader->autoload('database\\PDO')
+#2 /var/www/test/lib/database/Database.php(41): spl_autoload_call('database\\PDO')
+#3 /var/www/test/application/models/Catalog.php(117): database\Database->query('SELECT name FRO...')
+#4 /var/www/test/application/controllers/Catalog.php(18): CatalogModel::getCategoryName('transport')
+#5 [internal function]: CatalogController->subcategoryAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,118,379,487ms | Mem Usage: (2.048 kb)[0m
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'path = 'transport'' at line 1 in file /var/www/test/lib/database/Database.php at line 42
+#0 /var/www/test/lib/database/Database.php(42): PDO->query('SELECT name FRO...')
+#1 /var/www/test/application/models/Catalog.php(117): database\Database->query('SELECT name FRO...')
+#2 /var/www/test/application/controllers/Catalog.php(18): CatalogModel::getCategoryName('transport')
+#3 [internal function]: CatalogController->subcategoryAction()
+#4 /var/www/test/public/index.php(6): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,118,437,863ms | Mem Usage: (2.048 kb)[0m
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'path = 'transport'' at line 1 in file /var/www/test/lib/database/Database.php at line 42
+#0 /var/www/test/lib/database/Database.php(42): PDO->query('SELECT name FRO...')
+#1 /var/www/test/application/models/Catalog.php(117): database\Database->query('SELECT name FRO...')
+#2 /var/www/test/application/controllers/Catalog.php(18): CatalogModel::getCategoryName('transport')
+#3 [internal function]: CatalogController->subcategoryAction()
+#4 /var/www/test/public/index.php(6): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,118,441,766ms | Mem Usage: (2.048 kb)[0m
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'path = 'transport'' at line 1 in file /var/www/test/lib/database/Database.php at line 42
+#0 /var/www/test/lib/database/Database.php(42): PDO->query('SELECT name FRO...')
+#1 /var/www/test/application/models/Catalog.php(117): database\Database->query('SELECT name FRO...')
+#2 /var/www/test/application/controllers/Catalog.php(18): CatalogModel::getCategoryName('transport')
+#3 [internal function]: CatalogController->subcategoryAction()
+#4 /var/www/test/public/index.php(6): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,118,482,729ms | Mem Usage: (2.048 kb)[0m
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'path = 'transport'' at line 1 in file /var/www/test/lib/database/Database.php at line 42
+#0 /var/www/test/lib/database/Database.php(42): PDO->query('SELECT name FRO...')
+#1 /var/www/test/application/models/Catalog.php(117): database\Database->query('SELECT name FRO...')
+#2 /var/www/test/application/controllers/Catalog.php(18): CatalogModel::getCategoryName('transport')
+#3 [internal function]: CatalogController->subcategoryAction()
+#4 /var/www/test/public/index.php(6): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,118,484,888ms | Mem Usage: (2.048 kb)[0m
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'path = 'transport'' at line 1 in file /var/www/test/lib/database/Database.php at line 42
+#0 /var/www/test/lib/database/Database.php(42): PDO->query('SELECT name FRO...')
+#1 /var/www/test/application/models/Catalog.php(117): database\Database->query('SELECT name FRO...')
+#2 /var/www/test/application/controllers/Catalog.php(18): CatalogModel::getCategoryName('transport')
+#3 [internal function]: CatalogController->subcategoryAction()
+#4 /var/www/test/public/index.php(6): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,118,574,198ms | Mem Usage: (2.048 kb)[0m
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'path = 'transport'' at line 1 in file /var/www/test/lib/database/Database.php at line 42
+#0 /var/www/test/lib/database/Database.php(42): PDO->query('SELECT name FRO...')
+#1 /var/www/test/application/models/Catalog.php(117): database\Database->query('SELECT name FRO...')
+#2 /var/www/test/application/controllers/Catalog.php(18): CatalogModel::getCategoryName('transport')
+#3 [internal function]: CatalogController->subcategoryAction()
+#4 /var/www/test/public/index.php(6): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,118,576,742ms | Mem Usage: (2.048 kb)[0m
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'path = 'transport'' at line 1 in file /var/www/test/lib/database/Database.php at line 43
+#0 /var/www/test/lib/database/Database.php(43): PDO->query('SELECT name FRO...')
+#1 /var/www/test/application/models/Catalog.php(117): database\Database->query('SELECT name FRO...')
+#2 /var/www/test/application/controllers/Catalog.php(18): CatalogModel::getCategoryName('transport')
+#3 [internal function]: CatalogController->subcategoryAction()
+#4 /var/www/test/public/index.php(6): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,118,706,737ms | Mem Usage: (2.048 kb)[0m
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'path = 'transport'' at line 1 in file /var/www/test/lib/database/Database.php at line 43
+#0 /var/www/test/lib/database/Database.php(43): PDO->query('SELECT name FRO...')
+#1 /var/www/test/application/models/Catalog.php(117): database\Database->query('SELECT name FRO...')
+#2 /var/www/test/application/controllers/Catalog.php(18): CatalogModel::getCategoryName('transport')
+#3 [internal function]: CatalogController->subcategoryAction()
+#4 /var/www/test/public/index.php(6): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,118,890,370ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Array to string conversion in file /var/www/test/lib/database/Database.php at line 45
+#0 /var/www/test/lib/database/Database.php(45): Bootstrap::error_handler(8, 'Array to string...', '/var/www/test/l...', 45, Array)
+#1 /var/www/test/application/models/Catalog.php(117): database\Database->query('SELECT name FRO...')
+#2 /var/www/test/application/controllers/Catalog.php(18): CatalogModel::getCategoryName('transport')
+#3 [internal function]: CatalogController->subcategoryAction()
+#4 /var/www/test/public/index.php(6): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,119,081,161ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: name in file /var/www/test/application/controllers/Catalog.php at line 32
+#0 /var/www/test/application/controllers/Catalog.php(32): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 32, Array)
+#1 [internal function]: CatalogController->subcategoryAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,464,119,229,730ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: result in file /var/www/test/application/models/Catalog.php at line 126
+#0 /var/www/test/application/models/Catalog.php(126): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 126, Array)
+#1 /var/www/test/application/controllers/Catalog.php(18): CatalogModel::getCategoryName('transport')
+#2 [internal function]: CatalogController->subcategoryAction()
+#3 /var/www/test/public/index.php(6): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,119,407,159ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: name in file /var/www/test/application/controllers/Catalog.php at line 32
+#0 /var/www/test/application/controllers/Catalog.php(32): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 32, Array)
+#1 [internal function]: CatalogController->subcategoryAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,464,119,472,129ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: connection in file /var/www/test/lib/database/Database.php at line 67
+#0 /var/www/test/lib/database/Database.php(67): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 67, Array)
+#1 [internal function]: database\Database->database\{closure}('category', 1)
+#2 /var/www/test/lib/database/Database.php(69): array_walk_recursive(Array, Object(Closure))
+#3 /var/www/test/application/models/Add.php(17): database\Database->quote_array(Array)
+#4 /var/www/test/application/controllers/Add.php(28): AddModel::setAd(Array)
+#5 [internal function]: AddController->addtodbAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,121,175,450ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: connection in file /var/www/test/lib/database/Database.php at line 67
+#0 /var/www/test/lib/database/Database.php(67): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 67, Array)
+#1 [internal function]: database\Database->database\{closure}('category', 1)
+#2 /var/www/test/lib/database/Database.php(69): array_walk_recursive(Array, Object(Closure))
+#3 /var/www/test/application/models/Add.php(17): database\Database->quote_array(Array)
+#4 /var/www/test/application/controllers/Add.php(28): AddModel::setAd(Array)
+#5 [internal function]: AddController->addtodbAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,121,290,055ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/User.php: No such file or directory in file /var/www/test/application/modules/Admin/controllers/Authorization.php at line 19
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/a...', 19, Array)
+#1 [internal function]: Yaf_Loader->autoload('User')
+#2 /var/www/test/application/modules/Admin/controllers/Authorization.php(19): spl_autoload_call('User')
+#3 [internal function]: AuthorizationController->loginAction()
+#4 /var/www/test/public/index.php(6): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,249,790,219ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/User.php: No such file or directory in file /var/www/test/application/modules/Admin/controllers/Authorization.php at line 19
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/a...', 19, Array)
+#1 [internal function]: Yaf_Loader->autoload('User')
+#2 /var/www/test/application/modules/Admin/controllers/Authorization.php(19): spl_autoload_call('User')
+#3 [internal function]: AuthorizationController->loginAction()
+#4 /var/www/test/public/index.php(6): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,250,196,461ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Could not find class User in /var/www/test/lib/User.php in file /var/www/test/application/modules/Admin/controllers/Authorization.php at line 18
+#0 [internal function]: Bootstrap::error_handler(2048, 'Yaf_Loader::aut...', '/var/www/test/a...', 18, Array)
+#1 [internal function]: Yaf_Loader->autoload('User')
+#2 /var/www/test/application/modules/Admin/controllers/Authorization.php(18): spl_autoload_call('User')
+#3 [internal function]: AuthorizationController->loginAction()
+#4 /var/www/test/public/index.php(6): Yaf_Application->run()
+#5 {main}
+[1;32mCompleted in 1,464,598,851,010ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: file_upload in file /var/www/test/application/models/Add.php at line 17
+#0 /var/www/test/application/models/Add.php(17): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 17, Array)
+#1 /var/www/test/application/controllers/Add.php(28): AddModel::setAd(Array)
+#2 [internal function]: AddController->addtodbAction()
+#3 /var/www/test/public/index.php(6): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,616,898,309ms | Mem Usage: (2.048 kb)[0m
+ErrorException: move_uploaded_file(/uploads/wall.jpg): failed to open stream: No such file or directory in file /var/www/test/lib/Images.php at line 71
+#0 [internal function]: Bootstrap::error_handler(2, 'move_uploaded_f...', '/var/www/test/l...', 71, Array)
+#1 /var/www/test/lib/Images.php(71): move_uploaded_file('/tmp/phpmM13l3', '/uploads/wall.j...')
+#2 /var/www/test/application/models/Add.php(18): Images->save()
+#3 /var/www/test/application/controllers/Add.php(28): AddModel::setAd(Array)
+#4 [internal function]: AddController->addtodbAction()
+#5 /var/www/test/public/index.php(6): Yaf_Application->run()
+#6 {main}
+[1;32mCompleted in 1,464,617,006,770ms | Mem Usage: (2.048 kb)[0m
+ErrorException: move_uploaded_file(/var/www/test/public/uploads/wall.jpg): failed to open stream: Permission denied in file /var/www/test/lib/Images.php at line 71
+#0 [internal function]: Bootstrap::error_handler(2, 'move_uploaded_f...', '/var/www/test/l...', 71, Array)
+#1 /var/www/test/lib/Images.php(71): move_uploaded_file('/tmp/phpCHUJ3V', '/var/www/test/p...')
+#2 /var/www/test/application/models/Add.php(18): Images->save()
+#3 /var/www/test/application/controllers/Add.php(28): AddModel::setAd(Array)
+#4 [internal function]: AddController->addtodbAction()
+#5 /var/www/test/public/index.php(6): Yaf_Application->run()
+#6 {main}
+[1;32mCompleted in 1,464,617,304,148ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: pagination in file /var/www/test/application/controllers/Catalog.php at line 53
+#0 /var/www/test/application/controllers/Catalog.php(53): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 53, Array)
+#1 [internal function]: CatalogController->categoryAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,464,711,988,338ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: pagination in file /var/www/test/application/controllers/Catalog.php at line 53
+#0 /var/www/test/application/controllers/Catalog.php(53): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 53, Array)
+#1 [internal function]: CatalogController->categoryAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,464,711,991,071ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: pagination in file /var/www/test/application/controllers/Catalog.php at line 53
+#0 /var/www/test/application/controllers/Catalog.php(53): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 53, Array)
+#1 [internal function]: CatalogController->categoryAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,464,711,993,437ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: pagination in file /var/www/test/application/controllers/Catalog.php at line 53
+#0 /var/www/test/application/controllers/Catalog.php(53): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 53, Array)
+#1 [internal function]: CatalogController->categoryAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,464,712,144,651ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Use of undefined constant pagi - assumed 'pagi' in file /var/www/test/application/views/catalog/catalog.phtml at line 1
+#0 /var/www/test/application/views/catalog/catalog.phtml(1): Bootstrap::error_handler(8, 'Use of undefine...', '/var/www/test/a...', 1, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('catalog/catalog...', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('catalog/catalog...', Array)
+#4 /var/www/test/application/controllers/Catalog.php(63): eYaf\Layout->display('catalog/catalog...')
+#5 [internal function]: CatalogController->categoryAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,712,233,776ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: page in file /var/www/test/application/views/catalog/catalog.phtml at line 20
+#0 /var/www/test/application/views/catalog/catalog.phtml(20): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 20, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('catalog/catalog...', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('catalog/catalog...', Array)
+#4 /var/www/test/application/controllers/Catalog.php(63): eYaf\Layout->display('catalog/catalog...')
+#5 [internal function]: CatalogController->categoryAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,712,962,427ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: page in file /var/www/test/application/views/catalog/catalog.phtml at line 20
+#0 /var/www/test/application/views/catalog/catalog.phtml(20): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 20, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('catalog/catalog...', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('catalog/catalog...', Array)
+#4 /var/www/test/application/controllers/Catalog.php(63): eYaf\Layout->display('catalog/catalog...')
+#5 [internal function]: CatalogController->categoryAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,712,965,751ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: pagi in file /var/www/test/application/views/catalog/catalog.phtml at line 21
+#0 /var/www/test/application/views/catalog/catalog.phtml(21): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 21, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('catalog/catalog...', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('catalog/catalog...', Array)
+#4 /var/www/test/application/controllers/Catalog.php(34): eYaf\Layout->display('catalog/catalog...')
+#5 [internal function]: CatalogController->subcategoryAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,718,519,465ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: pagi in file /var/www/test/application/views/catalog/catalog.phtml at line 21
+#0 /var/www/test/application/views/catalog/catalog.phtml(21): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 21, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('catalog/catalog...', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('catalog/catalog...', Array)
+#4 /var/www/test/application/controllers/Catalog.php(34): eYaf\Layout->display('catalog/catalog...')
+#5 [internal function]: CatalogController->subcategoryAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,464,718,530,082ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: obj in file /var/www/test/lib/User.php at line 33
+#0 /var/www/test/lib/User.php(33): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 33, Array)
+#1 /var/www/test/application/modules/Admin/controllers/Authorization.php(18): User::authenticate('admin', '123123')
+#2 [internal function]: AuthorizationController->loginAction()
+#3 /var/www/test/public/index.php(6): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,787,352,242ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: obj in file /var/www/test/lib/User.php at line 33
+#0 /var/www/test/lib/User.php(33): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 33, Array)
+#1 /var/www/test/application/modules/Admin/controllers/Authorization.php(18): User::authenticate('admin', '123123')
+#2 [internal function]: AuthorizationController->loginAction()
+#3 /var/www/test/public/index.php(6): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,787,423,014ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: obj in file /var/www/test/lib/User.php at line 33
+#0 /var/www/test/lib/User.php(33): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 33, Array)
+#1 /var/www/test/application/modules/Admin/controllers/Authorization.php(18): User::authenticate('admin', '123123')
+#2 [internal function]: AuthorizationController->loginAction()
+#3 /var/www/test/public/index.php(6): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,787,477,474ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: obj in file /var/www/test/lib/User.php at line 33
+#0 /var/www/test/lib/User.php(33): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 33, Array)
+#1 /var/www/test/application/modules/Admin/controllers/Authorization.php(18): User::authenticate('admin', '123123')
+#2 [internal function]: AuthorizationController->loginAction()
+#3 /var/www/test/public/index.php(6): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,787,526,639ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: obj in file /var/www/test/lib/User.php at line 33
+#0 /var/www/test/lib/User.php(33): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 33, Array)
+#1 /var/www/test/application/modules/Admin/controllers/Authorization.php(18): User::authenticate('admin', '123123')
+#2 [internal function]: AuthorizationController->loginAction()
+#3 /var/www/test/public/index.php(6): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,787,567,016ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: obj in file /var/www/test/lib/User.php at line 33
+#0 /var/www/test/lib/User.php(33): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/l...', 33, Array)
+#1 /var/www/test/application/modules/Admin/controllers/Authorization.php(18): User::authenticate('admin', '123123')
+#2 [internal function]: AuthorizationController->loginAction()
+#3 /var/www/test/public/index.php(6): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,787,603,031ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): There is no method editAction in SubcategoryController in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,464,955,010,923ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): There is no method editAction in SubcategoryController in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,464,955,023,828ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): There is no method editAction in SubcategoryController in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,464,955,039,692ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): There is no method editAction in SubcategoryController in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,464,956,310,669ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: subcategories in file /var/www/test/application/modules/Admin/controllers/Category.php at line 42
+#0 /var/www/test/application/modules/Admin/controllers/Category.php(42): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 42, Array)
+#1 [internal function]: CategoryController->editAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,464,956,860,130ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: path in file /var/www/test/application/models/Category.php at line 24
+#0 /var/www/test/application/models/Category.php(24): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 24, Array)
+#1 /var/www/test/application/modules/Admin/controllers/Category.php(42): CategoryModel::find_by_parent('3')
+#2 [internal function]: CategoryController->editAction()
+#3 /var/www/test/public/index.php(6): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,464,957,258,496ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): There is no method editAction in SubcategoryController in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,464,958,445,921ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): There is no method editAction in SubcategoryController in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,465,029,506,684ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): There is no method deleteAction in SubcategoryController in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,465,029,513,158ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: category_id in file /var/www/test/application/modules/Admin/controllers/Subcategory.php at line 36
+#0 /var/www/test/application/modules/Admin/controllers/Subcategory.php(36): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 36, Array)
+#1 [internal function]: SubcategoryController->deleteAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,465,031,330,306ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: HTTP_REFERER in file /var/www/test/application/modules/Admin/controllers/Subcategory.php at line 32
+#0 /var/www/test/application/modules/Admin/controllers/Subcategory.php(32): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 32, Array)
+#1 [internal function]: SubcategoryController->deleteAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,465,031,359,397ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: HTTP_REFERER in file /var/www/test/application/modules/Admin/controllers/Subcategory.php at line 32
+#0 /var/www/test/application/modules/Admin/controllers/Subcategory.php(32): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 32, Array)
+#1 [internal function]: SubcategoryController->deleteAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,465,031,400,843ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: HTTP_REFERER in file /var/www/test/application/modules/Admin/controllers/Subcategory.php at line 32
+#0 /var/www/test/application/modules/Admin/controllers/Subcategory.php(32): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 32, Array)
+#1 [internal function]: SubcategoryController->deleteAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,465,031,426,187ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: category_id in file /var/www/test/application/modules/Admin/controllers/Subcategory.php at line 36
+#0 /var/www/test/application/modules/Admin/controllers/Subcategory.php(36): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 36, Array)
+#1 [internal function]: SubcategoryController->deleteAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,465,031,466,390ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: category_id in file /var/www/test/application/modules/Admin/controllers/Subcategory.php at line 36
+#0 /var/www/test/application/modules/Admin/controllers/Subcategory.php(36): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 36, Array)
+#1 [internal function]: SubcategoryController->deleteAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,465,031,494,844ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: category_id in file /var/www/test/application/modules/Admin/controllers/Subcategory.php at line 36
+#0 /var/www/test/application/modules/Admin/controllers/Subcategory.php(36): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 36, Array)
+#1 [internal function]: SubcategoryController->deleteAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,465,031,512,402ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: HTTP_REFERER in file /var/www/test/application/modules/Admin/controllers/Subcategory.php at line 32
+#0 /var/www/test/application/modules/Admin/controllers/Subcategory.php(32): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 32, Array)
+#1 [internal function]: SubcategoryController->deleteAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,465,032,014,583ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): There is no method editAction in SubcategoryController in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,465,032,625,098ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Invalid argument supplied for foreach() in file /var/www/test/application/modules/Admin/views/category/edit.phtml at line 27
+#0 /var/www/test/application/modules/Admin/views/category/edit.phtml(27): Bootstrap::error_handler(2, 'Invalid argumen...', '/var/www/test/a...', 27, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('category/edit.p...', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('category/edit.p...', Array)
+#4 /var/www/test/application/modules/Admin/controllers/Category.php(65): eYaf\Layout->display('category/edit.p...')
+#5 [internal function]: CategoryController->editAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,465,034,015,950ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Invalid argument supplied for foreach() in file /var/www/test/application/modules/Admin/views/category/edit.phtml at line 27
+#0 /var/www/test/application/modules/Admin/views/category/edit.phtml(27): Bootstrap::error_handler(2, 'Invalid argumen...', '/var/www/test/a...', 27, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('category/edit.p...', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('category/edit.p...', Array)
+#4 /var/www/test/application/modules/Admin/controllers/Category.php(65): eYaf\Layout->display('category/edit.p...')
+#5 [internal function]: CategoryController->editAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,465,034,040,166ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: visible in file /var/www/test/application/modules/Admin/controllers/Category.php at line 31
+#0 /var/www/test/application/modules/Admin/controllers/Category.php(31): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 31, Array)
+#1 [internal function]: CategoryController->createAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,465,036,108,625ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: visible in file /var/www/test/application/modules/Admin/controllers/Category.php at line 31
+#0 /var/www/test/application/modules/Admin/controllers/Category.php(31): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 31, Array)
+#1 [internal function]: CategoryController->createAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,465,036,324,086ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: visible in file /var/www/test/application/modules/Admin/controllers/Category.php at line 31
+#0 /var/www/test/application/modules/Admin/controllers/Category.php(31): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 31, Array)
+#1 [internal function]: CategoryController->createAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,465,036,338,543ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: visible in file /var/www/test/application/modules/Admin/controllers/Category.php at line 33
+#0 /var/www/test/application/modules/Admin/controllers/Category.php(33): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 33, Array)
+#1 [internal function]: CategoryController->createAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,465,036,571,505ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: category_id in file /var/www/test/application/modules/Admin/controllers/Category.php at line 30
+#0 /var/www/test/application/modules/Admin/controllers/Category.php(30): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 30, Array)
+#1 [internal function]: CategoryController->createAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,465,037,236,144ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: HTTP_REFERER in file /var/www/test/application/modules/Admin/controllers/Category.php at line 73
+#0 /var/www/test/application/modules/Admin/controllers/Category.php(73): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 73, Array)
+#1 [internal function]: CategoryController->deleteAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,465,037,569,441ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: HTTP_REFERER in file /var/www/test/application/modules/Admin/controllers/Category.php at line 73
+#0 /var/www/test/application/modules/Admin/controllers/Category.php(73): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 73, Array)
+#1 [internal function]: CategoryController->deleteAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,465,037,619,854ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Css.php: No such file or directory in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,465,039,212,866ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Css.php: No such file or directory in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,465,039,220,401ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Css.php: No such file or directory in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,465,039,327,202ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Css.php: No such file or directory in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,465,039,390,987ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Css.php: No such file or directory in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,465,041,882,089ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Css.php: No such file or directory in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,465,041,957,694ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Css.php: No such file or directory in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,465,041,995,552ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Css.php: No such file or directory in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,465,044,327,576ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/modules/Admin/controllers/Subcategory.php: No such file or directory in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,465,071,861,236ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/View.php: No such file or directory in file /var/www/test/application/widgets/MenuWidget.php at line 4
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/a...', 4, Array)
+#1 [internal function]: Yaf_Loader->autoload('View')
+#2 /var/www/test/application/widgets/MenuWidget.php(4): spl_autoload_call('View')
+#3 /var/www/test/application/modules/Admin/views/category/index.phtml(10): MenuWidget::run()
+#4 [internal function]: unknown()
+#5 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('category/index....', Array)
+#6 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('category/index....', Array)
+#7 /var/www/test/application/modules/Admin/controllers/Category.php(16): eYaf\Layout->display('category/index....')
+#8 [internal function]: CategoryController->indexAction()
+#9 /var/www/test/public/index.php(6): Yaf_Application->run()
+#10 {main}
+[1;32mCompleted in 1,465,302,349,166ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: data in file /var/www/test/application/widgets/MenuWidget.php at line 4
+#0 /var/www/test/application/widgets/MenuWidget.php(4): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 4, Array)
+#1 /var/www/test/application/modules/Admin/views/category/index.phtml(10): MenuWidget::run()
+#2 [internal function]: unknown()
+#3 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('category/index....', Array)
+#4 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('category/index....', Array)
+#5 /var/www/test/application/modules/Admin/controllers/Category.php(16): eYaf\Layout->display('category/index....')
+#6 [internal function]: CategoryController->indexAction()
+#7 /var/www/test/public/index.php(6): Yaf_Application->run()
+#8 {main}
+[1;32mCompleted in 1,465,302,441,145ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: data in file /var/www/test/application/widgets/MenuWidget.php at line 4
+#0 /var/www/test/application/widgets/MenuWidget.php(4): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 4, Array)
+#1 /var/www/test/application/modules/Admin/views/category/index.phtml(10): MenuWidget::run()
+#2 [internal function]: unknown()
+#3 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('category/index....', Array)
+#4 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('category/index....', Array)
+#5 /var/www/test/application/modules/Admin/controllers/Category.php(16): eYaf\Layout->display('category/index....')
+#6 [internal function]: CategoryController->indexAction()
+#7 /var/www/test/public/index.php(6): Yaf_Application->run()
+#8 {main}
+[1;32mCompleted in 1,465,302,473,498ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Array to string conversion in file /var/www/test/application/widgets/MenuWidget.php at line 5
+#0 /var/www/test/application/widgets/MenuWidget.php(5): Bootstrap::error_handler(8, 'Array to string...', '/var/www/test/a...', 5, Array)
+#1 /var/www/test/application/modules/Admin/views/category/index.phtml(10): MenuWidget::run()
+#2 [internal function]: unknown()
+#3 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('category/index....', Array)
+#4 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('category/index....', Array)
+#5 /var/www/test/application/modules/Admin/controllers/Category.php(16): eYaf\Layout->display('category/index....')
+#6 [internal function]: CategoryController->indexAction()
+#7 /var/www/test/public/index.php(6): Yaf_Application->run()
+#8 {main}
+[1;32mCompleted in 1,465,303,589,633ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Array to string conversion in file /var/www/test/application/widgets/MenuWidget.php at line 5
+#0 /var/www/test/application/widgets/MenuWidget.php(5): Bootstrap::error_handler(8, 'Array to string...', '/var/www/test/a...', 5, Array)
+#1 /var/www/test/application/modules/Admin/views/category/index.phtml(10): MenuWidget::run()
+#2 [internal function]: unknown()
+#3 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('category/index....', Array)
+#4 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('category/index....', Array)
+#5 /var/www/test/application/modules/Admin/controllers/Category.php(16): eYaf\Layout->display('category/index....')
+#6 [internal function]: CategoryController->indexAction()
+#7 /var/www/test/public/index.php(6): Yaf_Application->run()
+#8 {main}
+[1;32mCompleted in 1,465,303,636,171ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Array to string conversion in file /var/www/test/lib/View.php at line 12
+#0 /var/www/test/lib/View.php(12): Bootstrap::error_handler(8, 'Array to string...', '/var/www/test/l...', 12, Array)
+#1 /var/www/test/application/widgets/MenuWidget.php(5): View::widget('crumbs', Array)
+#2 /var/www/test/application/modules/Admin/views/category/index.phtml(10): MenuWidget::run()
+#3 [internal function]: unknown()
+#4 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('category/index....', Array)
+#5 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('category/index....', Array)
+#6 /var/www/test/application/modules/Admin/controllers/Category.php(16): eYaf\Layout->display('category/index....')
+#7 [internal function]: CategoryController->indexAction()
+#8 /var/www/test/public/index.php(6): Yaf_Application->run()
+#9 {main}
+[1;32mCompleted in 1,465,303,658,535ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/WidgetView.php: No such file or directory in file /var/www/test/application/widgets/MenuWidget.php at line 5
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/a...', 5, Array)
+#1 [internal function]: Yaf_Loader->autoload('WidgetView')
+#2 /var/www/test/application/widgets/MenuWidget.php(5): spl_autoload_call('WidgetView')
+#3 /var/www/test/application/modules/Admin/views/category/index.phtml(10): MenuWidget::run()
+#4 [internal function]: unknown()
+#5 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('category/index....', Array)
+#6 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('category/index....', Array)
+#7 /var/www/test/application/modules/Admin/controllers/Category.php(16): eYaf\Layout->display('category/index....')
+#8 [internal function]: CategoryController->indexAction()
+#9 /var/www/test/public/index.php(6): Yaf_Application->run()
+#10 {main}
+[1;32mCompleted in 1,465,304,202,115ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/WidgetView.php: No such file or directory in file /var/www/test/application/widgets/MenuWidget.php at line 5
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/a...', 5, Array)
+#1 [internal function]: Yaf_Loader->autoload('WidgetView')
+#2 /var/www/test/application/widgets/MenuWidget.php(5): spl_autoload_call('WidgetView')
+#3 /var/www/test/application/modules/Admin/views/category/index.phtml(10): MenuWidget::run()
+#4 [internal function]: unknown()
+#5 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('category/index....', Array)
+#6 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('category/index....', Array)
+#7 /var/www/test/application/modules/Admin/controllers/Category.php(16): eYaf\Layout->display('category/index....')
+#8 [internal function]: CategoryController->indexAction()
+#9 /var/www/test/public/index.php(6): Yaf_Application->run()
+#10 {main}
+[1;32mCompleted in 1,465,304,202,136ms | Mem Usage: (2.048 kb)[0m
+ErrorException: include(/var/www/test/application/widgets/views/alert.php): failed to open stream: No such file or directory in file /var/www/test/lib/WidgetView.php at line 15
+#0 /var/www/test/lib/WidgetView.php(15): Bootstrap::error_handler(2, 'include(/var/ww...', '/var/www/test/l...', 15, Array)
+#1 /var/www/test/lib/WidgetView.php(15): include()
+#2 /var/www/test/application/widgets/MenuWidget.php(5): WidgetView::widget('alert', Array)
+#3 /var/www/test/application/modules/Admin/views/category/index.phtml(11): MenuWidget::run()
+#4 [internal function]: unknown()
+#5 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('category/index....', Array)
+#6 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('category/index....', Array)
+#7 /var/www/test/application/modules/Admin/controllers/Category.php(16): eYaf\Layout->display('category/index....')
+#8 [internal function]: CategoryController->indexAction()
+#9 /var/www/test/public/index.php(6): Yaf_Application->run()
+#10 {main}
+[1;32mCompleted in 1,465,306,815,483ms | Mem Usage: (2.048 kb)[0m
+ErrorException: include(/var/www/test/application/widgets/views/alert.php): failed to open stream: No such file or directory in file /var/www/test/lib/WidgetView.php at line 15
+#0 /var/www/test/lib/WidgetView.php(15): Bootstrap::error_handler(2, 'include(/var/ww...', '/var/www/test/l...', 15, Array)
+#1 /var/www/test/lib/WidgetView.php(15): include()
+#2 /var/www/test/application/widgets/MenuWidget.php(5): WidgetView::widget('alert', Array)
+#3 /var/www/test/application/modules/Admin/views/category/index.phtml(11): MenuWidget::run()
+#4 [internal function]: unknown()
+#5 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('category/index....', Array)
+#6 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('category/index....', Array)
+#7 /var/www/test/application/modules/Admin/controllers/Category.php(16): eYaf\Layout->display('category/index....')
+#8 [internal function]: CategoryController->indexAction()
+#9 /var/www/test/public/index.php(6): Yaf_Application->run()
+#10 {main}
+[1;32mCompleted in 1,465,306,853,670ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/MenuWidget.php: No such file or directory in file /var/www/test/application/modules/Admin/views/category/index.phtml at line 3
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/a...', 3, Array)
+#1 [internal function]: Yaf_Loader->autoload('MenuWidget')
+#2 /var/www/test/application/modules/Admin/views/category/index.phtml(3): spl_autoload_call('MenuWidget')
+#3 [internal function]: unknown()
+#4 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('category/index....', Array)
+#5 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('category/index....', Array)
+#6 /var/www/test/application/modules/Admin/controllers/Category.php(16): eYaf\Layout->display('category/index....')
+#7 [internal function]: CategoryController->indexAction()
+#8 /var/www/test/public/index.php(6): Yaf_Application->run()
+#9 {main}
+[1;32mCompleted in 1,465,310,164,555ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/MenuWidget.php: No such file or directory in file /var/www/test/application/modules/Admin/views/category/index.phtml at line 3
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/a...', 3, Array)
+#1 [internal function]: Yaf_Loader->autoload('MenuWidget')
+#2 /var/www/test/application/modules/Admin/views/category/index.phtml(3): spl_autoload_call('MenuWidget')
+#3 [internal function]: unknown()
+#4 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('category/index....', Array)
+#5 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('category/index....', Array)
+#6 /var/www/test/application/modules/Admin/controllers/Category.php(16): eYaf\Layout->display('category/index....')
+#7 [internal function]: CategoryController->indexAction()
+#8 /var/www/test/public/index.php(6): Yaf_Application->run()
+#9 {main}
+[1;32mCompleted in 1,465,310,206,497ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/MenuWidget.php: No such file or directory in file /var/www/test/application/modules/Admin/views/category/index.phtml at line 3
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/a...', 3, Array)
+#1 [internal function]: Yaf_Loader->autoload('MenuWidget')
+#2 /var/www/test/application/modules/Admin/views/category/index.phtml(3): spl_autoload_call('MenuWidget')
+#3 [internal function]: unknown()
+#4 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('category/index....', Array)
+#5 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('category/index....', Array)
+#6 /var/www/test/application/modules/Admin/controllers/Category.php(16): eYaf\Layout->display('category/index....')
+#7 [internal function]: CategoryController->indexAction()
+#8 /var/www/test/public/index.php(6): Yaf_Application->run()
+#9 {main}
+[1;32mCompleted in 1,465,310,221,060ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/MenuWidget.php: No such file or directory in file /var/www/test/application/modules/Admin/views/category/index.phtml at line 3
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/a...', 3, Array)
+#1 [internal function]: Yaf_Loader->autoload('MenuWidget')
+#2 /var/www/test/application/modules/Admin/views/category/index.phtml(3): spl_autoload_call('MenuWidget')
+#3 [internal function]: unknown()
+#4 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('category/index....', Array)
+#5 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('category/index....', Array)
+#6 /var/www/test/application/modules/Admin/controllers/Category.php(16): eYaf\Layout->display('category/index....')
+#7 [internal function]: CategoryController->indexAction()
+#8 /var/www/test/public/index.php(6): Yaf_Application->run()
+#9 {main}
+[1;32mCompleted in 1,465,310,244,111ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Loader::autoload(): Failed opening script /var/www/test/lib/MenuWidget.php: No such file or directory in file /var/www/test/application/modules/Admin/views/category/index.phtml at line 3
+#0 [internal function]: Bootstrap::error_handler(2, 'Yaf_Loader::aut...', '/var/www/test/a...', 3, Array)
+#1 [internal function]: Yaf_Loader->autoload('MenuWidget')
+#2 /var/www/test/application/modules/Admin/views/category/index.phtml(3): spl_autoload_call('MenuWidget')
+#3 [internal function]: unknown()
+#4 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('category/index....', Array)
+#5 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('category/index....', Array)
+#6 /var/www/test/application/modules/Admin/controllers/Category.php(16): eYaf\Layout->display('category/index....')
+#7 [internal function]: CategoryController->indexAction()
+#8 /var/www/test/public/index.php(6): Yaf_Application->run()
+#9 {main}
+[1;32mCompleted in 1,465,310,297,111ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined property: CategoryModel::$table in file /var/www/test/application/models/Category.php at line 41
+#0 /var/www/test/application/models/Category.php(41): Bootstrap::error_handler(8, 'Undefined prope...', '/var/www/test/a...', 41, Array)
+#1 /var/www/test/application/modules/Admin/controllers/Category.php(36): CategoryModel->create_category_with_ads_table()
+#2 [internal function]: CategoryController->createAction()
+#3 /var/www/test/public/index.php(6): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,467,791,952,294ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: table_ads in file /var/www/test/application/views/add/add.phtml at line 28
+#0 /var/www/test/application/views/add/add.phtml(28): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 28, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('add/add.phtml', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('add/add.phtml', Array)
+#4 /var/www/test/application/controllers/Add.php(18): eYaf\Layout->display('add/add.phtml')
+#5 [internal function]: AddController->indexAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,467,795,005,296ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: table_ads in file /var/www/test/application/views/add/add.phtml at line 28
+#0 /var/www/test/application/views/add/add.phtml(28): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 28, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('add/add.phtml', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('add/add.phtml', Array)
+#4 /var/www/test/application/controllers/Add.php(18): eYaf\Layout->display('add/add.phtml')
+#5 [internal function]: AddController->indexAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,467,795,012,304ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: table_ads in file /var/www/test/application/views/add/add.phtml at line 32
+#0 /var/www/test/application/views/add/add.phtml(32): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 32, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('add/add.phtml', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('add/add.phtml', Array)
+#4 /var/www/test/application/controllers/Add.php(18): eYaf\Layout->display('add/add.phtml')
+#5 [internal function]: AddController->indexAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,467,795,050,056ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: child in file /var/www/test/application/views/add/add.phtml at line 31
+#0 /var/www/test/application/views/add/add.phtml(31): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 31, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('add/add.phtml', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('add/add.phtml', Array)
+#4 /var/www/test/application/controllers/Add.php(18): eYaf\Layout->display('add/add.phtml')
+#5 [internal function]: AddController->indexAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,467,795,926,681ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: child in file /var/www/test/application/views/add/add.phtml at line 31
+#0 /var/www/test/application/views/add/add.phtml(31): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 31, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('add/add.phtml', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('add/add.phtml', Array)
+#4 /var/www/test/application/controllers/Add.php(18): eYaf\Layout->display('add/add.phtml')
+#5 [internal function]: AddController->indexAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,467,795,953,884ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: categories in file /var/www/test/application/controllers/Add.php at line 15
+#0 /var/www/test/application/controllers/Add.php(15): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 15, Array)
+#1 [internal function]: AddController->indexAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,467,796,004,426ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: child in file /var/www/test/application/views/add/add.phtml at line 31
+#0 /var/www/test/application/views/add/add.phtml(31): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 31, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('add/add.phtml', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('add/add.phtml', Array)
+#4 /var/www/test/application/controllers/Add.php(18): eYaf\Layout->display('add/add.phtml')
+#5 [internal function]: AddController->indexAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,467,796,070,633ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: child in file /var/www/test/application/views/add/add.phtml at line 31
+#0 /var/www/test/application/views/add/add.phtml(31): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 31, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('add/add.phtml', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('add/add.phtml', Array)
+#4 /var/www/test/application/controllers/Add.php(18): eYaf\Layout->display('add/add.phtml')
+#5 [internal function]: AddController->indexAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,467,796,084,044ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: child in file /var/www/test/application/views/add/add.phtml at line 31
+#0 /var/www/test/application/views/add/add.phtml(31): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 31, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('add/add.phtml', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('add/add.phtml', Array)
+#4 /var/www/test/application/controllers/Add.php(18): eYaf\Layout->display('add/add.phtml')
+#5 [internal function]: AddController->indexAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,467,796,110,129ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: child in file /var/www/test/application/views/add/add.phtml at line 32
+#0 /var/www/test/application/views/add/add.phtml(32): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 32, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('add/add.phtml', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('add/add.phtml', Array)
+#4 /var/www/test/application/controllers/Add.php(18): eYaf\Layout->display('add/add.phtml')
+#5 [internal function]: AddController->indexAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,467,796,333,474ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: child in file /var/www/test/application/views/add/add.phtml at line 32
+#0 /var/www/test/application/views/add/add.phtml(32): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 32, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('add/add.phtml', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('add/add.phtml', Array)
+#4 /var/www/test/application/controllers/Add.php(18): eYaf\Layout->display('add/add.phtml')
+#5 [internal function]: AddController->indexAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,467,796,336,152ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: child in file /var/www/test/application/views/add/add.phtml at line 32
+#0 /var/www/test/application/views/add/add.phtml(32): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 32, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('add/add.phtml', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('add/add.phtml', Array)
+#4 /var/www/test/application/controllers/Add.php(18): eYaf\Layout->display('add/add.phtml')
+#5 [internal function]: AddController->indexAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,467,796,382,063ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: child in file /var/www/test/application/views/add/add.phtml at line 31
+#0 /var/www/test/application/views/add/add.phtml(31): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 31, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('add/add.phtml', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('add/add.phtml', Array)
+#4 /var/www/test/application/controllers/Add.php(18): eYaf\Layout->display('add/add.phtml')
+#5 [internal function]: AddController->indexAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,467,796,416,894ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: child in file /var/www/test/application/views/add/add.phtml at line 31
+#0 /var/www/test/application/views/add/add.phtml(31): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 31, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('add/add.phtml', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('add/add.phtml', Array)
+#4 /var/www/test/application/controllers/Add.php(18): eYaf\Layout->display('add/add.phtml')
+#5 [internal function]: AddController->indexAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,467,796,419,409ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: child in file /var/www/test/application/views/add/add.phtml at line 31
+#0 /var/www/test/application/views/add/add.phtml(31): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 31, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('add/add.phtml', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('add/add.phtml', Array)
+#4 /var/www/test/application/controllers/Add.php(18): eYaf\Layout->display('add/add.phtml')
+#5 [internal function]: AddController->indexAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,467,796,489,806ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: child in file /var/www/test/application/views/add/add.phtml at line 31
+#0 /var/www/test/application/views/add/add.phtml(31): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 31, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('add/add.phtml', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('add/add.phtml', Array)
+#4 /var/www/test/application/controllers/Add.php(18): eYaf\Layout->display('add/add.phtml')
+#5 [internal function]: AddController->indexAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,467,796,522,188ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: child in file /var/www/test/application/views/add/add.phtml at line 31
+#0 /var/www/test/application/views/add/add.phtml(31): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 31, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('add/add.phtml', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('add/add.phtml', Array)
+#4 /var/www/test/application/controllers/Add.php(19): eYaf\Layout->display('add/add.phtml')
+#5 [internal function]: AddController->indexAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+ErrorException: Undefined index: child in file /var/www/test/application/views/add/add.phtml at line 31
+#0 /var/www/test/application/views/add/add.phtml(31): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 31, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('add/add.phtml', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('add/add.phtml', Array)
+#4 /var/www/test/application/controllers/Add.php(19): eYaf\Layout->display('add/add.phtml')
+#5 [internal function]: AddController->indexAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,467,796,715,653ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: child in file /var/www/test/application/views/add/add.phtml at line 31
+#0 /var/www/test/application/views/add/add.phtml(31): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 31, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('add/add.phtml', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('add/add.phtml', Array)
+#4 /var/www/test/application/controllers/Add.php(19): eYaf\Layout->display('add/add.phtml')
+#5 [internal function]: AddController->indexAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,467,797,002,690ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: table_ads in file /var/www/test/application/views/add/add.phtml at line 28
+#0 /var/www/test/application/views/add/add.phtml(28): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 28, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('add/add.phtml', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('add/add.phtml', Array)
+#4 /var/www/test/application/controllers/Add.php(19): eYaf\Layout->display('add/add.phtml')
+#5 [internal function]: AddController->indexAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,467,797,112,995ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Illegal string offset 'name' in file /var/www/test/application/controllers/Catalog.php at line 62
+#0 /var/www/test/application/controllers/Catalog.php(62): Bootstrap::error_handler(2, 'Illegal string ...', '/var/www/test/a...', 62, Array)
+#1 [internal function]: CatalogController->categoryAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,467,823,933,915ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Illegal string offset 'name' in file /var/www/test/application/controllers/Catalog.php at line 62
+#0 /var/www/test/application/controllers/Catalog.php(62): Bootstrap::error_handler(2, 'Illegal string ...', '/var/www/test/a...', 62, Array)
+#1 [internal function]: CatalogController->categoryAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,467,823,939,277ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Illegal string offset 'name' in file /var/www/test/application/controllers/Catalog.php at line 62
+#0 /var/www/test/application/controllers/Catalog.php(62): Bootstrap::error_handler(2, 'Illegal string ...', '/var/www/test/a...', 62, Array)
+#1 [internal function]: CatalogController->categoryAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,467,824,042,021ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Illegal string offset 'name' in file /var/www/test/application/controllers/Catalog.php at line 63
+#0 /var/www/test/application/controllers/Catalog.php(63): Bootstrap::error_handler(2, 'Illegal string ...', '/var/www/test/a...', 63, Array)
+#1 [internal function]: CatalogController->categoryAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,467,824,090,736ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Illegal string offset 'name' in file /var/www/test/application/controllers/Catalog.php at line 63
+#0 /var/www/test/application/controllers/Catalog.php(63): Bootstrap::error_handler(2, 'Illegal string ...', '/var/www/test/a...', 63, Array)
+#1 [internal function]: CatalogController->categoryAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,467,824,203,545ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Illegal string offset 'name' in file /var/www/test/application/controllers/Catalog.php at line 63
+#0 /var/www/test/application/controllers/Catalog.php(63): Bootstrap::error_handler(2, 'Illegal string ...', '/var/www/test/a...', 63, Array)
+#1 [internal function]: CatalogController->categoryAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,467,824,214,328ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Illegal string offset 'name' in file /var/www/test/application/controllers/Catalog.php at line 63
+#0 /var/www/test/application/controllers/Catalog.php(63): Bootstrap::error_handler(2, 'Illegal string ...', '/var/www/test/a...', 63, Array)
+#1 [internal function]: CatalogController->categoryAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,467,824,531,080ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Illegal string offset 'name' in file /var/www/test/application/controllers/Catalog.php at line 63
+#0 /var/www/test/application/controllers/Catalog.php(63): Bootstrap::error_handler(2, 'Illegal string ...', '/var/www/test/a...', 63, Array)
+#1 [internal function]: CatalogController->categoryAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,467,824,559,511ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Illegal string offset 'name' in file /var/www/test/application/controllers/Catalog.php at line 63
+#0 /var/www/test/application/controllers/Catalog.php(63): Bootstrap::error_handler(2, 'Illegal string ...', '/var/www/test/a...', 63, Array)
+#1 [internal function]: CatalogController->categoryAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,467,824,581,785ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Illegal string offset 'name' in file /var/www/test/application/controllers/Catalog.php at line 63
+#0 /var/www/test/application/controllers/Catalog.php(63): Bootstrap::error_handler(2, 'Illegal string ...', '/var/www/test/a...', 63, Array)
+#1 [internal function]: CatalogController->categoryAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,467,824,612,175ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Illegal string offset 'name' in file /var/www/test/application/controllers/Catalog.php at line 63
+#0 /var/www/test/application/controllers/Catalog.php(63): Bootstrap::error_handler(2, 'Illegal string ...', '/var/www/test/a...', 63, Array)
+#1 [internal function]: CatalogController->categoryAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,467,824,675,751ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): Failed opening controller script /var/www/test/application/controllers/Mobilnaya/Svyaz.php: No such file or directory in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,467,881,176,178ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: category in file /var/www/test/application/models/Catalog.php at line 16
+#0 /var/www/test/application/models/Catalog.php(16): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 16, Array)
+#1 /var/www/test/application/controllers/Catalog.php(14): CatalogModel::getSubcatByCatPath('mobilnaya_svyaz')
+#2 [internal function]: CatalogController->categoryAction()
+#3 /var/www/test/public/index.php(6): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,467,882,702,102ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: category in file /var/www/test/application/models/Catalog.php at line 16
+#0 /var/www/test/application/models/Catalog.php(16): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 16, Array)
+#1 /var/www/test/application/controllers/Catalog.php(14): CatalogModel::getSubcatByCatPath('mobilnaya_svyaz')
+#2 [internal function]: CatalogController->categoryAction()
+#3 /var/www/test/public/index.php(6): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,467,882,705,384ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: category in file /var/www/test/application/models/Catalog.php at line 16
+#0 /var/www/test/application/models/Catalog.php(16): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 16, Array)
+#1 /var/www/test/application/controllers/Catalog.php(15): CatalogModel::getSubcatByCatPath('mobilnaya_svyaz')
+#2 [internal function]: CatalogController->categoryAction()
+#3 /var/www/test/public/index.php(6): Yaf_Application->run()
+#4 {main}
+[1;32mCompleted in 1,467,882,729,732ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: mtime in file /var/www/test/application/views/catalog/catalog.phtml at line 6
+#0 /var/www/test/application/views/catalog/catalog.phtml(6): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 6, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('catalog/catalog...', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('catalog/catalog...', Array)
+#4 /var/www/test/application/controllers/Catalog.php(34): eYaf\Layout->display('catalog/catalog...')
+#5 [internal function]: CatalogController->categoryAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,467,967,458,764ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined variable: category in file /var/www/test/application/controllers/Catalog.php at line 28
+#0 /var/www/test/application/controllers/Catalog.php(28): Bootstrap::error_handler(8, 'Undefined varia...', '/var/www/test/a...', 28, Array)
+#1 [internal function]: CatalogController->categoryAction()
+#2 /var/www/test/public/index.php(6): Yaf_Application->run()
+#3 {main}
+[1;32mCompleted in 1,467,967,532,332ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: mtime in file /var/www/test/application/views/catalog/catalog.phtml at line 6
+#0 /var/www/test/application/views/catalog/catalog.phtml(6): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 6, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('catalog/catalog...', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('catalog/catalog...', Array)
+#4 /var/www/test/application/controllers/Catalog.php(32): eYaf\Layout->display('catalog/catalog...')
+#5 [internal function]: CatalogController->categoryAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,467,967,594,535ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Undefined index: mtime in file /var/www/test/application/views/catalog/catalog.phtml at line 6
+#0 /var/www/test/application/views/catalog/catalog.phtml(6): Bootstrap::error_handler(8, 'Undefined index...', '/var/www/test/a...', 6, Array)
+#1 [internal function]: unknown()
+#2 /var/www/test/lib/eYaf/Layout.php(300): Yaf_View_Simple->render('catalog/catalog...', Array)
+#3 /var/www/test/lib/eYaf/Layout.php(337): eYaf\Layout->render('catalog/catalog...', Array)
+#4 /var/www/test/application/controllers/Catalog.php(32): eYaf\Layout->display('catalog/catalog...')
+#5 [internal function]: CatalogController->categoryAction()
+#6 /var/www/test/public/index.php(6): Yaf_Application->run()
+#7 {main}
+[1;32mCompleted in 1,467,967,660,024ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): There is no method err404Action in ErrorController in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,469,612,596,683ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): There is no method err404Action in ErrorController in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,469,612,702,441ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): There is no method err404Action in ErrorController in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,469,613,624,124ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): There is no method err404Action in ErrorController in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,469,613,634,327ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): There is no method err404Action in ErrorController in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,469,613,671,270ms | Mem Usage: (2.048 kb)[0m
+ErrorException: Yaf_Application::run(): There is no method err404Action in ErrorController in file /var/www/test/public/index.php at line 6
+#0 [internal function]: Bootstrap::error_handler(4096, 'Yaf_Application...', '/var/www/test/p...', 6, Array)
+#1 /var/www/test/public/index.php(6): Yaf_Application->run()
+#2 {main}
+[1;32mCompleted in 1,469,613,675,742ms | Mem Usage: (2.048 kb)[0m
